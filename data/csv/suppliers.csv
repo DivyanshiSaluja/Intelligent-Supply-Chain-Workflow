@@ -1,0 +1,9 @@
+supplier_id,name,region,category_id,commodity,lead_time_days,reliability,cost_mult
+1,Shenzhen Electronics Co,CN-South,1,semiconductors,9,0.93,1.0
+2,Chennai Components Ltd,IN-South,1,semiconductors,6,0.9,1.08
+3,Hanoi Devices JSC,VN-North,1,semiconductors,11,0.88,0.97
+4,Mumbai Agro Oils,IN-West,2,edible_oil,4,0.95,1.0
+5,Jakarta Palm Traders,ID-Java,2,edible_oil,8,0.9,0.94
+6,Delhi FMCG Distributors,IN-North,2,diversified,3,0.92,1.1
+7,Tiruppur Textiles,IN-South,3,cotton,7,0.92,1.0
+8,Dhaka Garments,BD-Dhaka,3,cotton,10,0.87,0.93

@@ -1,0 +1,29 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	signal_analyst(signal_analyst)
+	memory_recall(memory_recall)
+	demand_forecaster(demand_forecaster)
+	supplier_evaluator(supplier_evaluator)
+	replenishment_planner(replenishment_planner)
+	supervisor(supervisor)
+	human_approval(human_approval)
+	audit_logger(audit_logger)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> signal_analyst;
+	demand_forecaster --> supplier_evaluator;
+	human_approval --> audit_logger;
+	memory_recall --> demand_forecaster;
+	replenishment_planner --> supervisor;
+	signal_analyst --> memory_recall;
+	supervisor -.-> audit_logger;
+	supervisor -.-> human_approval;
+	supplier_evaluator --> replenishment_planner;
+	audit_logger --> __end__;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc

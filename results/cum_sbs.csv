@@ -1,0 +1,1921 @@
+config,scenario,day,mean,sd
+Static ROP,commodity_shortage,0,0.0,0.0
+Static ROP,commodity_shortage,1,0.0,0.0
+Static ROP,commodity_shortage,2,0.0,0.0
+Static ROP,commodity_shortage,3,0.0,0.0
+Static ROP,commodity_shortage,4,0.0,0.0
+Static ROP,commodity_shortage,5,0.0,0.0
+Static ROP,commodity_shortage,6,0.0,0.0
+Static ROP,commodity_shortage,7,0.0,0.0
+Static ROP,commodity_shortage,8,0.0,0.0
+Static ROP,commodity_shortage,9,0.67,3.29
+Static ROP,commodity_shortage,10,6.93,10.41
+Static ROP,commodity_shortage,11,42.6,38.13
+Static ROP,commodity_shortage,12,61.63,60.91
+Static ROP,commodity_shortage,13,69.37,71.43
+Static ROP,commodity_shortage,14,77.4,74.58
+Static ROP,commodity_shortage,15,86.23,72.18
+Static ROP,commodity_shortage,16,98.37,75.31
+Static ROP,commodity_shortage,17,116.77,85.13
+Static ROP,commodity_shortage,18,146.4,108.02
+Static ROP,commodity_shortage,19,157.43,112.58
+Static ROP,commodity_shortage,20,161.9,116.74
+Static ROP,commodity_shortage,21,162.03,116.58
+Static ROP,commodity_shortage,22,162.13,116.57
+Static ROP,commodity_shortage,23,163.43,116.33
+Static ROP,commodity_shortage,24,167.9,113.93
+Static ROP,commodity_shortage,25,181.47,115.27
+Static ROP,commodity_shortage,26,213.77,132.41
+Static ROP,commodity_shortage,27,243.07,135.37
+Static ROP,commodity_shortage,28,257.67,141.09
+Static ROP,commodity_shortage,29,266.27,145.29
+Static ROP,commodity_shortage,30,276.3,143.99
+Static ROP,commodity_shortage,31,301.2,156.87
+Static ROP,commodity_shortage,32,321.63,167.49
+Static ROP,commodity_shortage,33,336.57,176.58
+Static ROP,commodity_shortage,34,345.7,180.16
+Static ROP,commodity_shortage,35,352.67,178.82
+Static ROP,commodity_shortage,36,355.77,176.47
+Static ROP,commodity_shortage,37,358.37,177.07
+Static ROP,commodity_shortage,38,359.37,177.23
+Static ROP,commodity_shortage,39,367.13,178.37
+Static ROP,commodity_shortage,40,402.33,191.39
+Static ROP,commodity_shortage,41,487.4,226.77
+Static ROP,commodity_shortage,42,634.33,315.18
+Static ROP,commodity_shortage,43,836.93,431.28
+Static ROP,commodity_shortage,44,1077.0,575.33
+Static ROP,commodity_shortage,45,1320.1,722.34
+Static ROP,commodity_shortage,46,1586.73,874.79
+Static ROP,commodity_shortage,47,1781.37,978.6
+Static ROP,commodity_shortage,48,1885.07,1041.29
+Static ROP,commodity_shortage,49,1931.67,1070.9
+Static ROP,commodity_shortage,50,1967.47,1094.86
+Static ROP,commodity_shortage,51,1996.37,1109.86
+Static ROP,commodity_shortage,52,2029.53,1132.8
+Static ROP,commodity_shortage,53,2091.67,1168.71
+Static ROP,commodity_shortage,54,2220.03,1229.6
+Static ROP,commodity_shortage,55,2386.0,1312.27
+Static ROP,commodity_shortage,56,2623.6,1405.1
+Static ROP,commodity_shortage,57,2916.97,1460.79
+Static ROP,commodity_shortage,58,3225.53,1487.22
+Static ROP,commodity_shortage,59,3548.7,1481.37
+Static ROP,commodity_shortage,60,3850.93,1437.95
+Static ROP,commodity_shortage,61,4086.1,1378.34
+Static ROP,commodity_shortage,62,4209.03,1318.61
+Static ROP,commodity_shortage,63,4301.03,1273.01
+Static ROP,commodity_shortage,64,4365.77,1259.12
+Static ROP,commodity_shortage,65,4443.37,1277.53
+Static ROP,commodity_shortage,66,4542.57,1312.07
+Static ROP,commodity_shortage,67,4697.23,1382.13
+Static ROP,commodity_shortage,68,4916.47,1459.02
+Static ROP,commodity_shortage,69,5148.83,1529.17
+Static ROP,commodity_shortage,70,5405.3,1592.49
+Static ROP,commodity_shortage,71,5672.7,1616.66
+Static ROP,commodity_shortage,72,5947.2,1616.19
+Static ROP,commodity_shortage,73,6200.67,1572.44
+Static ROP,commodity_shortage,74,6412.5,1509.34
+Static ROP,commodity_shortage,75,6568.77,1460.87
+Static ROP,commodity_shortage,76,6649.9,1448.46
+Static ROP,commodity_shortage,77,6705.5,1435.07
+Static ROP,commodity_shortage,78,6748.67,1442.57
+Static ROP,commodity_shortage,79,6803.07,1462.54
+Static ROP,commodity_shortage,80,6865.53,1479.2
+Static ROP,commodity_shortage,81,6965.9,1494.13
+Static ROP,commodity_shortage,82,7078.17,1511.97
+Static ROP,commodity_shortage,83,7186.03,1521.81
+Static ROP,commodity_shortage,84,7289.17,1502.86
+Static ROP,commodity_shortage,85,7399.07,1458.29
+Static ROP,commodity_shortage,86,7500.83,1417.02
+Static ROP,commodity_shortage,87,7589.67,1387.96
+Static ROP,commodity_shortage,88,7662.3,1378.74
+Static ROP,commodity_shortage,89,7730.3,1380.06
+Static ROP,commodity_shortage,90,7772.27,1388.91
+Static ROP,commodity_shortage,91,7793.73,1391.12
+Static ROP,commodity_shortage,92,7806.2,1395.77
+Static ROP,commodity_shortage,93,7817.73,1403.0
+Static ROP,commodity_shortage,94,7828.8,1406.62
+Static ROP,commodity_shortage,95,7854.6,1415.9
+Static ROP,commodity_shortage,96,7879.87,1429.62
+Static ROP,commodity_shortage,97,7894.9,1423.92
+Static ROP,commodity_shortage,98,7911.47,1420.2
+Static ROP,commodity_shortage,99,7924.07,1416.11
+Static ROP,commodity_shortage,100,7934.07,1416.54
+Static ROP,commodity_shortage,101,7949.77,1418.02
+Static ROP,commodity_shortage,102,7967.17,1413.48
+Static ROP,commodity_shortage,103,7986.03,1406.99
+Static ROP,commodity_shortage,104,7995.37,1401.92
+Static ROP,commodity_shortage,105,8009.8,1398.6
+Static ROP,commodity_shortage,106,8021.77,1393.7
+Static ROP,commodity_shortage,107,8032.87,1387.07
+Static ROP,commodity_shortage,108,8045.53,1393.08
+Static ROP,commodity_shortage,109,8053.7,1396.78
+Static ROP,commodity_shortage,110,8065.93,1401.47
+Static ROP,commodity_shortage,111,8078.9,1399.18
+Static ROP,commodity_shortage,112,8091.77,1395.7
+Static ROP,commodity_shortage,113,8095.1,1395.82
+Static ROP,commodity_shortage,114,8104.03,1391.13
+Static ROP,commodity_shortage,115,8112.53,1387.52
+Static ROP,commodity_shortage,116,8115.13,1386.6
+Static ROP,commodity_shortage,117,8127.1,1383.65
+Static ROP,commodity_shortage,118,8140.37,1386.89
+Static ROP,commodity_shortage,119,8144.47,1387.7
+Static ROP,supplier_failure,0,0.0,0.0
+Static ROP,supplier_failure,1,0.0,0.0
+Static ROP,supplier_failure,2,0.0,0.0
+Static ROP,supplier_failure,3,0.0,0.0
+Static ROP,supplier_failure,4,0.0,0.0
+Static ROP,supplier_failure,5,0.0,0.0
+Static ROP,supplier_failure,6,0.0,0.0
+Static ROP,supplier_failure,7,0.0,0.0
+Static ROP,supplier_failure,8,0.5,2.74
+Static ROP,supplier_failure,9,4.8,11.45
+Static ROP,supplier_failure,10,12.57,17.27
+Static ROP,supplier_failure,11,58.13,57.1
+Static ROP,supplier_failure,12,85.43,79.85
+Static ROP,supplier_failure,13,114.6,117.88
+Static ROP,supplier_failure,14,130.5,138.79
+Static ROP,supplier_failure,15,139.6,139.59
+Static ROP,supplier_failure,16,150.0,149.7
+Static ROP,supplier_failure,17,161.77,170.12
+Static ROP,supplier_failure,18,176.73,183.76
+Static ROP,supplier_failure,19,192.4,199.98
+Static ROP,supplier_failure,20,196.33,203.01
+Static ROP,supplier_failure,21,197.27,203.57
+Static ROP,supplier_failure,22,197.97,204.13
+Static ROP,supplier_failure,23,199.03,203.88
+Static ROP,supplier_failure,24,206.87,206.29
+Static ROP,supplier_failure,25,218.7,205.51
+Static ROP,supplier_failure,26,253.5,219.02
+Static ROP,supplier_failure,27,286.33,239.74
+Static ROP,supplier_failure,28,303.9,249.18
+Static ROP,supplier_failure,29,316.2,253.5
+Static ROP,supplier_failure,30,326.67,253.36
+Static ROP,supplier_failure,31,342.07,253.55
+Static ROP,supplier_failure,32,363.07,261.14
+Static ROP,supplier_failure,33,371.6,257.55
+Static ROP,supplier_failure,34,377.13,260.07
+Static ROP,supplier_failure,35,385.53,270.08
+Static ROP,supplier_failure,36,393.73,284.24
+Static ROP,supplier_failure,37,399.6,291.66
+Static ROP,supplier_failure,38,401.93,290.55
+Static ROP,supplier_failure,39,409.6,287.63
+Static ROP,supplier_failure,40,436.63,277.67
+Static ROP,supplier_failure,41,465.8,275.91
+Static ROP,supplier_failure,42,502.5,281.57
+Static ROP,supplier_failure,43,525.07,281.4
+Static ROP,supplier_failure,44,544.7,277.75
+Static ROP,supplier_failure,45,571.8,289.74
+Static ROP,supplier_failure,46,631.33,323.56
+Static ROP,supplier_failure,47,732.9,378.51
+Static ROP,supplier_failure,48,859.07,480.74
+Static ROP,supplier_failure,49,990.3,607.03
+Static ROP,supplier_failure,50,1153.93,758.36
+Static ROP,supplier_failure,51,1320.33,923.6
+Static ROP,supplier_failure,52,1504.83,1116.57
+Static ROP,supplier_failure,53,1712.73,1334.4
+Static ROP,supplier_failure,54,1918.6,1544.56
+Static ROP,supplier_failure,55,2108.6,1736.35
+Static ROP,supplier_failure,56,2299.67,1916.72
+Static ROP,supplier_failure,57,2488.9,2104.76
+Static ROP,supplier_failure,58,2686.33,2297.68
+Static ROP,supplier_failure,59,2895.33,2492.26
+Static ROP,supplier_failure,60,3161.73,2678.85
+Static ROP,supplier_failure,61,3480.47,2797.51
+Static ROP,supplier_failure,62,3794.83,2860.11
+Static ROP,supplier_failure,63,4139.7,2883.14
+Static ROP,supplier_failure,64,4543.6,2900.04
+Static ROP,supplier_failure,65,4944.87,2902.41
+Static ROP,supplier_failure,66,5357.2,2896.72
+Static ROP,supplier_failure,67,5829.73,2892.07
+Static ROP,supplier_failure,68,6281.03,2889.79
+Static ROP,supplier_failure,69,6669.8,2884.57
+Static ROP,supplier_failure,70,7051.27,2882.15
+Static ROP,supplier_failure,71,7446.2,2879.65
+Static ROP,supplier_failure,72,7848.0,2873.08
+Static ROP,supplier_failure,73,8273.23,2867.34
+Static ROP,supplier_failure,74,8755.23,2865.88
+Static ROP,supplier_failure,75,9205.37,2852.74
+Static ROP,supplier_failure,76,9555.5,2837.11
+Static ROP,supplier_failure,77,9906.3,2806.25
+Static ROP,supplier_failure,78,10233.57,2737.85
+Static ROP,supplier_failure,79,10549.33,2646.41
+Static ROP,supplier_failure,80,10861.23,2520.45
+Static ROP,supplier_failure,81,11166.93,2347.1
+Static ROP,supplier_failure,82,11413.07,2152.86
+Static ROP,supplier_failure,83,11623.13,1992.54
+Static ROP,supplier_failure,84,11821.33,1846.46
+Static ROP,supplier_failure,85,12028.57,1700.24
+Static ROP,supplier_failure,86,12223.47,1567.9
+Static ROP,supplier_failure,87,12374.8,1477.9
+Static ROP,supplier_failure,88,12486.13,1427.66
+Static ROP,supplier_failure,89,12552.97,1410.02
+Static ROP,supplier_failure,90,12611.27,1409.4
+Static ROP,supplier_failure,91,12654.3,1414.11
+Static ROP,supplier_failure,92,12670.83,1423.32
+Static ROP,supplier_failure,93,12678.53,1430.0
+Static ROP,supplier_failure,94,12686.0,1438.28
+Static ROP,supplier_failure,95,12692.8,1437.59
+Static ROP,supplier_failure,96,12703.07,1442.01
+Static ROP,supplier_failure,97,12720.13,1446.78
+Static ROP,supplier_failure,98,12733.0,1454.7
+Static ROP,supplier_failure,99,12751.73,1452.7
+Static ROP,supplier_failure,100,12762.93,1454.22
+Static ROP,supplier_failure,101,12780.4,1451.1
+Static ROP,supplier_failure,102,12807.73,1443.16
+Static ROP,supplier_failure,103,12838.17,1444.49
+Static ROP,supplier_failure,104,12846.57,1442.06
+Static ROP,supplier_failure,105,12854.23,1442.06
+Static ROP,supplier_failure,106,12863.83,1443.15
+Static ROP,supplier_failure,107,12880.07,1451.91
+Static ROP,supplier_failure,108,12895.93,1458.93
+Static ROP,supplier_failure,109,12914.43,1470.43
+Static ROP,supplier_failure,110,12929.3,1474.3
+Static ROP,supplier_failure,111,12932.07,1474.34
+Static ROP,supplier_failure,112,12938.57,1471.45
+Static ROP,supplier_failure,113,12949.97,1464.55
+Static ROP,supplier_failure,114,12955.1,1464.31
+Static ROP,supplier_failure,115,12962.8,1464.98
+Static ROP,supplier_failure,116,12987.0,1465.07
+Static ROP,supplier_failure,117,13001.83,1459.18
+Static ROP,supplier_failure,118,13011.63,1455.74
+Static ROP,supplier_failure,119,13020.1,1453.63
+Static ROP,weather_disruption,0,0.0,0.0
+Static ROP,weather_disruption,1,0.0,0.0
+Static ROP,weather_disruption,2,0.0,0.0
+Static ROP,weather_disruption,3,0.0,0.0
+Static ROP,weather_disruption,4,0.0,0.0
+Static ROP,weather_disruption,5,0.0,0.0
+Static ROP,weather_disruption,6,0.0,0.0
+Static ROP,weather_disruption,7,0.0,0.0
+Static ROP,weather_disruption,8,0.5,2.74
+Static ROP,weather_disruption,9,1.33,4.04
+Static ROP,weather_disruption,10,7.77,11.72
+Static ROP,weather_disruption,11,42.33,40.23
+Static ROP,weather_disruption,12,59.2,57.31
+Static ROP,weather_disruption,13,67.57,73.6
+Static ROP,weather_disruption,14,72.7,75.81
+Static ROP,weather_disruption,15,85.07,73.78
+Static ROP,weather_disruption,16,107.63,80.76
+Static ROP,weather_disruption,17,136.63,95.4
+Static ROP,weather_disruption,18,152.73,106.19
+Static ROP,weather_disruption,19,164.4,112.22
+Static ROP,weather_disruption,20,168.97,112.44
+Static ROP,weather_disruption,21,169.43,112.94
+Static ROP,weather_disruption,22,169.5,112.93
+Static ROP,weather_disruption,23,170.47,113.67
+Static ROP,weather_disruption,24,178.03,111.83
+Static ROP,weather_disruption,25,196.5,114.76
+Static ROP,weather_disruption,26,235.1,136.97
+Static ROP,weather_disruption,27,263.57,146.83
+Static ROP,weather_disruption,28,271.33,146.52
+Static ROP,weather_disruption,29,284.73,149.28
+Static ROP,weather_disruption,30,290.0,148.35
+Static ROP,weather_disruption,31,310.73,152.84
+Static ROP,weather_disruption,32,320.47,157.8
+Static ROP,weather_disruption,33,333.1,170.64
+Static ROP,weather_disruption,34,341.37,178.2
+Static ROP,weather_disruption,35,344.47,178.09
+Static ROP,weather_disruption,36,347.67,181.63
+Static ROP,weather_disruption,37,350.97,184.15
+Static ROP,weather_disruption,38,354.6,182.48
+Static ROP,weather_disruption,39,367.67,183.33
+Static ROP,weather_disruption,40,401.87,190.53
+Static ROP,weather_disruption,41,436.27,194.77
+Static ROP,weather_disruption,42,465.8,197.53
+Static ROP,weather_disruption,43,481.57,210.04
+Static ROP,weather_disruption,44,496.8,215.59
+Static ROP,weather_disruption,45,522.83,225.83
+Static ROP,weather_disruption,46,580.03,253.29
+Static ROP,weather_disruption,47,688.6,328.96
+Static ROP,weather_disruption,48,811.9,439.29
+Static ROP,weather_disruption,49,944.33,580.7
+Static ROP,weather_disruption,50,1081.03,741.39
+Static ROP,weather_disruption,51,1219.47,908.94
+Static ROP,weather_disruption,52,1366.3,1083.39
+Static ROP,weather_disruption,53,1538.23,1296.04
+Static ROP,weather_disruption,54,1702.37,1478.09
+Static ROP,weather_disruption,55,1853.1,1625.64
+Static ROP,weather_disruption,56,1992.33,1752.92
+Static ROP,weather_disruption,57,2102.0,1859.71
+Static ROP,weather_disruption,58,2189.27,1924.53
+Static ROP,weather_disruption,59,2270.27,1947.83
+Static ROP,weather_disruption,60,2406.37,1927.58
+Static ROP,weather_disruption,61,2590.63,1861.79
+Static ROP,weather_disruption,62,2795.0,1772.78
+Static ROP,weather_disruption,63,3030.87,1663.82
+Static ROP,weather_disruption,64,3309.2,1526.66
+Static ROP,weather_disruption,65,3597.47,1380.69
+Static ROP,weather_disruption,66,3908.33,1219.46
+Static ROP,weather_disruption,67,4247.77,1062.84
+Static ROP,weather_disruption,68,4590.6,914.93
+Static ROP,weather_disruption,69,4873.47,817.4
+Static ROP,weather_disruption,70,5130.5,740.36
+Static ROP,weather_disruption,71,5360.1,695.21
+Static ROP,weather_disruption,72,5551.03,701.73
+Static ROP,weather_disruption,73,5668.83,723.29
+Static ROP,weather_disruption,74,5753.27,754.56
+Static ROP,weather_disruption,75,5796.03,776.15
+Static ROP,weather_disruption,76,5824.07,785.36
+Static ROP,weather_disruption,77,5836.8,782.66
+Static ROP,weather_disruption,78,5845.17,780.64
+Static ROP,weather_disruption,79,5853.97,780.09
+Static ROP,weather_disruption,80,5864.43,783.03
+Static ROP,weather_disruption,81,5875.67,781.13
+Static ROP,weather_disruption,82,5882.3,777.63
+Static ROP,weather_disruption,83,5897.77,774.34
+Static ROP,weather_disruption,84,5903.8,772.26
+Static ROP,weather_disruption,85,5915.47,769.99
+Static ROP,weather_disruption,86,5926.23,767.23
+Static ROP,weather_disruption,87,5940.0,760.61
+Static ROP,weather_disruption,88,5968.47,765.98
+Static ROP,weather_disruption,89,6002.5,776.45
+Static ROP,weather_disruption,90,6027.57,776.42
+Static ROP,weather_disruption,91,6049.77,774.85
+Static ROP,weather_disruption,92,6060.93,777.16
+Static ROP,weather_disruption,93,6071.83,777.3
+Static ROP,weather_disruption,94,6080.47,771.88
+Static ROP,weather_disruption,95,6088.3,771.29
+Static ROP,weather_disruption,96,6093.03,775.8
+Static ROP,weather_disruption,97,6100.47,772.92
+Static ROP,weather_disruption,98,6108.83,769.63
+Static ROP,weather_disruption,99,6123.33,771.81
+Static ROP,weather_disruption,100,6132.4,775.91
+Static ROP,weather_disruption,101,6145.67,776.14
+Static ROP,weather_disruption,102,6178.1,772.65
+Static ROP,weather_disruption,103,6203.67,765.63
+Static ROP,weather_disruption,104,6217.27,764.34
+Static ROP,weather_disruption,105,6232.77,762.86
+Static ROP,weather_disruption,106,6248.23,763.19
+Static ROP,weather_disruption,107,6267.3,770.61
+Static ROP,weather_disruption,108,6277.5,779.39
+Static ROP,weather_disruption,109,6284.77,777.8
+Static ROP,weather_disruption,110,6289.57,777.18
+Static ROP,weather_disruption,111,6294.93,773.54
+Static ROP,weather_disruption,112,6297.57,770.83
+Static ROP,weather_disruption,113,6309.7,763.02
+Static ROP,weather_disruption,114,6319.77,760.6
+Static ROP,weather_disruption,115,6328.9,765.62
+Static ROP,weather_disruption,116,6345.93,761.98
+Static ROP,weather_disruption,117,6375.47,764.75
+Static ROP,weather_disruption,118,6393.57,761.5
+Static ROP,weather_disruption,119,6408.33,769.3
+Static ROP,festival_surge,0,0.0,0.0
+Static ROP,festival_surge,1,0.0,0.0
+Static ROP,festival_surge,2,0.0,0.0
+Static ROP,festival_surge,3,0.0,0.0
+Static ROP,festival_surge,4,0.0,0.0
+Static ROP,festival_surge,5,0.0,0.0
+Static ROP,festival_surge,6,0.0,0.0
+Static ROP,festival_surge,7,0.6,3.29
+Static ROP,festival_surge,8,2.0,10.95
+Static ROP,festival_surge,9,5.4,12.66
+Static ROP,festival_surge,10,15.57,16.94
+Static ROP,festival_surge,11,49.9,35.16
+Static ROP,festival_surge,12,88.3,90.81
+Static ROP,festival_surge,13,108.7,125.05
+Static ROP,festival_surge,14,122.4,148.18
+Static ROP,festival_surge,15,134.37,145.07
+Static ROP,festival_surge,16,148.23,142.22
+Static ROP,festival_surge,17,170.83,151.01
+Static ROP,festival_surge,18,192.2,154.24
+Static ROP,festival_surge,19,211.57,160.13
+Static ROP,festival_surge,20,218.2,165.4
+Static ROP,festival_surge,21,219.4,165.44
+Static ROP,festival_surge,22,219.83,165.56
+Static ROP,festival_surge,23,221.57,167.66
+Static ROP,festival_surge,24,229.9,169.79
+Static ROP,festival_surge,25,258.03,174.69
+Static ROP,festival_surge,26,304.27,183.46
+Static ROP,festival_surge,27,340.9,194.55
+Static ROP,festival_surge,28,360.93,199.97
+Static ROP,festival_surge,29,377.2,203.26
+Static ROP,festival_surge,30,383.47,204.13
+Static ROP,festival_surge,31,402.2,200.66
+Static ROP,festival_surge,32,437.07,203.32
+Static ROP,festival_surge,33,460.8,217.93
+Static ROP,festival_surge,34,471.33,228.39
+Static ROP,festival_surge,35,479.47,237.63
+Static ROP,festival_surge,36,487.53,242.85
+Static ROP,festival_surge,37,494.03,246.31
+Static ROP,festival_surge,38,497.87,246.31
+Static ROP,festival_surge,39,508.17,251.12
+Static ROP,festival_surge,40,532.43,256.57
+Static ROP,festival_surge,41,550.2,261.58
+Static ROP,festival_surge,42,569.2,271.81
+Static ROP,festival_surge,43,588.67,277.45
+Static ROP,festival_surge,44,604.27,281.2
+Static ROP,festival_surge,45,617.0,281.45
+Static ROP,festival_surge,46,645.37,278.33
+Static ROP,festival_surge,47,660.73,283.4
+Static ROP,festival_surge,48,675.6,296.33
+Static ROP,festival_surge,49,684.3,305.39
+Static ROP,festival_surge,50,690.87,305.65
+Static ROP,festival_surge,51,695.9,306.21
+Static ROP,festival_surge,52,697.7,304.73
+Static ROP,festival_surge,53,734.0,313.15
+Static ROP,festival_surge,54,823.87,423.2
+Static ROP,festival_surge,55,1008.1,696.54
+Static ROP,festival_surge,56,1305.43,1072.93
+Static ROP,festival_surge,57,1741.6,1600.05
+Static ROP,festival_surge,58,2328.43,2211.57
+Static ROP,festival_surge,59,2968.97,2833.2
+Static ROP,festival_surge,60,3663.37,3428.17
+Static ROP,festival_surge,61,4273.87,3742.93
+Static ROP,festival_surge,62,4651.33,3894.57
+Static ROP,festival_surge,63,4865.43,3939.61
+Static ROP,festival_surge,64,5005.9,3970.41
+Static ROP,festival_surge,65,5155.5,4026.8
+Static ROP,festival_surge,66,5420.1,4182.87
+Static ROP,festival_surge,67,5889.6,4424.83
+Static ROP,festival_surge,68,6577.73,4623.25
+Static ROP,festival_surge,69,7299.33,4531.22
+Static ROP,festival_surge,70,8000.83,4233.01
+Static ROP,festival_surge,71,8756.53,3878.92
+Static ROP,festival_surge,72,9460.53,3530.62
+Static ROP,festival_surge,73,10137.6,3160.38
+Static ROP,festival_surge,74,10710.43,2961.0
+Static ROP,festival_surge,75,11071.5,2837.63
+Static ROP,festival_surge,76,11234.53,2770.03
+Static ROP,festival_surge,77,11313.07,2748.86
+Static ROP,festival_surge,78,11382.83,2729.85
+Static ROP,festival_surge,79,11481.1,2708.2
+Static ROP,festival_surge,80,11612.43,2680.87
+Static ROP,festival_surge,81,11782.73,2625.19
+Static ROP,festival_surge,82,11955.27,2614.39
+Static ROP,festival_surge,83,12087.4,2645.98
+Static ROP,festival_surge,84,12157.1,2672.67
+Static ROP,festival_surge,85,12197.8,2692.64
+Static ROP,festival_surge,86,12231.63,2707.3
+Static ROP,festival_surge,87,12264.6,2710.62
+Static ROP,festival_surge,88,12304.63,2711.19
+Static ROP,festival_surge,89,12331.57,2722.53
+Static ROP,festival_surge,90,12352.8,2721.48
+Static ROP,festival_surge,91,12363.93,2716.0
+Static ROP,festival_surge,92,12369.2,2714.76
+Static ROP,festival_surge,93,12374.93,2717.6
+Static ROP,festival_surge,94,12382.67,2720.62
+Static ROP,festival_surge,95,12394.5,2724.41
+Static ROP,festival_surge,96,12415.2,2718.0
+Static ROP,festival_surge,97,12442.03,2718.19
+Static ROP,festival_surge,98,12468.33,2714.6
+Static ROP,festival_surge,99,12483.83,2707.16
+Static ROP,festival_surge,100,12502.7,2702.33
+Static ROP,festival_surge,101,12512.33,2700.33
+Static ROP,festival_surge,102,12530.73,2699.7
+Static ROP,festival_surge,103,12540.37,2703.28
+Static ROP,festival_surge,104,12550.2,2707.67
+Static ROP,festival_surge,105,12558.4,2705.88
+Static ROP,festival_surge,106,12567.43,2699.48
+Static ROP,festival_surge,107,12576.63,2693.61
+Static ROP,festival_surge,108,12587.73,2689.52
+Static ROP,festival_surge,109,12600.9,2695.93
+Static ROP,festival_surge,110,12610.5,2693.48
+Static ROP,festival_surge,111,12622.5,2694.7
+Static ROP,festival_surge,112,12638.4,2695.63
+Static ROP,festival_surge,113,12653.03,2699.91
+Static ROP,festival_surge,114,12659.1,2696.16
+Static ROP,festival_surge,115,12664.1,2697.87
+Static ROP,festival_surge,116,12675.33,2702.15
+Static ROP,festival_surge,117,12693.0,2705.15
+Static ROP,festival_surge,118,12708.83,2705.12
+Static ROP,festival_surge,119,12723.77,2706.38
+Adaptive ROP,commodity_shortage,0,0.0,0.0
+Adaptive ROP,commodity_shortage,1,0.0,0.0
+Adaptive ROP,commodity_shortage,2,0.0,0.0
+Adaptive ROP,commodity_shortage,3,0.0,0.0
+Adaptive ROP,commodity_shortage,4,0.0,0.0
+Adaptive ROP,commodity_shortage,5,0.0,0.0
+Adaptive ROP,commodity_shortage,6,0.0,0.0
+Adaptive ROP,commodity_shortage,7,0.0,0.0
+Adaptive ROP,commodity_shortage,8,0.0,0.0
+Adaptive ROP,commodity_shortage,9,0.67,3.29
+Adaptive ROP,commodity_shortage,10,9.67,13.99
+Adaptive ROP,commodity_shortage,11,57.0,43.19
+Adaptive ROP,commodity_shortage,12,91.53,68.61
+Adaptive ROP,commodity_shortage,13,107.93,89.26
+Adaptive ROP,commodity_shortage,14,118.57,91.54
+Adaptive ROP,commodity_shortage,15,143.97,98.75
+Adaptive ROP,commodity_shortage,16,217.27,123.22
+Adaptive ROP,commodity_shortage,17,318.9,146.27
+Adaptive ROP,commodity_shortage,18,402.33,150.04
+Adaptive ROP,commodity_shortage,19,431.43,160.5
+Adaptive ROP,commodity_shortage,20,443.3,154.4
+Adaptive ROP,commodity_shortage,21,447.73,154.74
+Adaptive ROP,commodity_shortage,22,452.7,154.48
+Adaptive ROP,commodity_shortage,23,454.83,154.94
+Adaptive ROP,commodity_shortage,24,460.03,151.97
+Adaptive ROP,commodity_shortage,25,478.5,152.19
+Adaptive ROP,commodity_shortage,26,517.33,166.54
+Adaptive ROP,commodity_shortage,27,581.5,184.29
+Adaptive ROP,commodity_shortage,28,610.7,205.87
+Adaptive ROP,commodity_shortage,29,629.73,216.43
+Adaptive ROP,commodity_shortage,30,646.43,213.86
+Adaptive ROP,commodity_shortage,31,694.97,208.47
+Adaptive ROP,commodity_shortage,32,752.17,217.85
+Adaptive ROP,commodity_shortage,33,796.0,234.69
+Adaptive ROP,commodity_shortage,34,819.97,244.34
+Adaptive ROP,commodity_shortage,35,837.53,252.08
+Adaptive ROP,commodity_shortage,36,847.83,260.46
+Adaptive ROP,commodity_shortage,37,852.0,259.2
+Adaptive ROP,commodity_shortage,38,855.9,258.8
+Adaptive ROP,commodity_shortage,39,865.83,268.99
+Adaptive ROP,commodity_shortage,40,911.63,270.68
+Adaptive ROP,commodity_shortage,41,1028.37,290.53
+Adaptive ROP,commodity_shortage,42,1215.83,371.32
+Adaptive ROP,commodity_shortage,43,1442.8,477.66
+Adaptive ROP,commodity_shortage,44,1702.97,614.3
+Adaptive ROP,commodity_shortage,45,1985.17,750.48
+Adaptive ROP,commodity_shortage,46,2291.4,876.99
+Adaptive ROP,commodity_shortage,47,2486.63,969.29
+Adaptive ROP,commodity_shortage,48,2608.07,1027.17
+Adaptive ROP,commodity_shortage,49,2695.13,1069.09
+Adaptive ROP,commodity_shortage,50,2740.93,1093.01
+Adaptive ROP,commodity_shortage,51,2779.33,1113.95
+Adaptive ROP,commodity_shortage,52,2821.33,1136.09
+Adaptive ROP,commodity_shortage,53,2889.63,1176.18
+Adaptive ROP,commodity_shortage,54,3024.17,1253.95
+Adaptive ROP,commodity_shortage,55,3231.7,1349.04
+Adaptive ROP,commodity_shortage,56,3524.37,1417.51
+Adaptive ROP,commodity_shortage,57,3844.27,1449.64
+Adaptive ROP,commodity_shortage,58,4183.6,1449.03
+Adaptive ROP,commodity_shortage,59,4543.23,1438.77
+Adaptive ROP,commodity_shortage,60,4879.13,1378.75
+Adaptive ROP,commodity_shortage,61,5126.97,1303.34
+Adaptive ROP,commodity_shortage,62,5268.23,1253.04
+Adaptive ROP,commodity_shortage,63,5361.3,1230.13
+Adaptive ROP,commodity_shortage,64,5429.97,1229.25
+Adaptive ROP,commodity_shortage,65,5497.5,1239.91
+Adaptive ROP,commodity_shortage,66,5593.4,1269.25
+Adaptive ROP,commodity_shortage,67,5774.87,1335.81
+Adaptive ROP,commodity_shortage,68,6010.17,1423.76
+Adaptive ROP,commodity_shortage,69,6282.67,1489.83
+Adaptive ROP,commodity_shortage,70,6590.53,1537.28
+Adaptive ROP,commodity_shortage,71,6908.87,1558.36
+Adaptive ROP,commodity_shortage,72,7223.3,1567.18
+Adaptive ROP,commodity_shortage,73,7494.1,1529.77
+Adaptive ROP,commodity_shortage,74,7750.53,1472.85
+Adaptive ROP,commodity_shortage,75,7914.43,1468.44
+Adaptive ROP,commodity_shortage,76,8028.73,1484.75
+Adaptive ROP,commodity_shortage,77,8085.83,1493.35
+Adaptive ROP,commodity_shortage,78,8135.37,1507.13
+Adaptive ROP,commodity_shortage,79,8199.23,1520.36
+Adaptive ROP,commodity_shortage,80,8276.33,1521.81
+Adaptive ROP,commodity_shortage,81,8369.97,1511.13
+Adaptive ROP,commodity_shortage,82,8504.83,1499.38
+Adaptive ROP,commodity_shortage,83,8630.2,1500.27
+Adaptive ROP,commodity_shortage,84,8755.27,1493.98
+Adaptive ROP,commodity_shortage,85,8879.43,1473.97
+Adaptive ROP,commodity_shortage,86,8983.57,1453.09
+Adaptive ROP,commodity_shortage,87,9102.27,1437.8
+Adaptive ROP,commodity_shortage,88,9199.57,1435.64
+Adaptive ROP,commodity_shortage,89,9291.07,1442.6
+Adaptive ROP,commodity_shortage,90,9371.37,1461.36
+Adaptive ROP,commodity_shortage,91,9423.2,1465.87
+Adaptive ROP,commodity_shortage,92,9455.37,1466.1
+Adaptive ROP,commodity_shortage,93,9478.73,1471.19
+Adaptive ROP,commodity_shortage,94,9503.3,1474.63
+Adaptive ROP,commodity_shortage,95,9544.27,1475.97
+Adaptive ROP,commodity_shortage,96,9579.4,1472.03
+Adaptive ROP,commodity_shortage,97,9620.43,1456.17
+Adaptive ROP,commodity_shortage,98,9642.57,1450.95
+Adaptive ROP,commodity_shortage,99,9664.63,1452.14
+Adaptive ROP,commodity_shortage,100,9680.4,1450.07
+Adaptive ROP,commodity_shortage,101,9703.3,1443.01
+Adaptive ROP,commodity_shortage,102,9729.73,1448.21
+Adaptive ROP,commodity_shortage,103,9753.77,1447.36
+Adaptive ROP,commodity_shortage,104,9791.97,1433.31
+Adaptive ROP,commodity_shortage,105,9827.23,1437.31
+Adaptive ROP,commodity_shortage,106,9869.2,1436.47
+Adaptive ROP,commodity_shortage,107,9910.1,1439.13
+Adaptive ROP,commodity_shortage,108,9944.67,1432.58
+Adaptive ROP,commodity_shortage,109,9984.77,1431.33
+Adaptive ROP,commodity_shortage,110,10017.33,1428.07
+Adaptive ROP,commodity_shortage,111,10047.33,1430.98
+Adaptive ROP,commodity_shortage,112,10065.93,1437.55
+Adaptive ROP,commodity_shortage,113,10089.43,1444.95
+Adaptive ROP,commodity_shortage,114,10107.23,1447.83
+Adaptive ROP,commodity_shortage,115,10119.97,1451.44
+Adaptive ROP,commodity_shortage,116,10127.83,1452.49
+Adaptive ROP,commodity_shortage,117,10147.57,1448.75
+Adaptive ROP,commodity_shortage,118,10177.07,1449.79
+Adaptive ROP,commodity_shortage,119,10225.57,1448.71
+Adaptive ROP,supplier_failure,0,0.0,0.0
+Adaptive ROP,supplier_failure,1,0.0,0.0
+Adaptive ROP,supplier_failure,2,0.0,0.0
+Adaptive ROP,supplier_failure,3,0.0,0.0
+Adaptive ROP,supplier_failure,4,0.0,0.0
+Adaptive ROP,supplier_failure,5,0.0,0.0
+Adaptive ROP,supplier_failure,6,0.0,0.0
+Adaptive ROP,supplier_failure,7,0.0,0.0
+Adaptive ROP,supplier_failure,8,0.5,2.74
+Adaptive ROP,supplier_failure,9,4.43,8.65
+Adaptive ROP,supplier_failure,10,16.17,18.37
+Adaptive ROP,supplier_failure,11,78.57,72.73
+Adaptive ROP,supplier_failure,12,121.3,91.85
+Adaptive ROP,supplier_failure,13,155.47,121.77
+Adaptive ROP,supplier_failure,14,183.1,138.08
+Adaptive ROP,supplier_failure,15,214.17,137.38
+Adaptive ROP,supplier_failure,16,309.17,160.97
+Adaptive ROP,supplier_failure,17,404.87,175.86
+Adaptive ROP,supplier_failure,18,484.2,193.71
+Adaptive ROP,supplier_failure,19,538.17,216.22
+Adaptive ROP,supplier_failure,20,563.13,220.07
+Adaptive ROP,supplier_failure,21,580.8,218.29
+Adaptive ROP,supplier_failure,22,589.3,219.65
+Adaptive ROP,supplier_failure,23,595.17,221.71
+Adaptive ROP,supplier_failure,24,596.9,221.51
+Adaptive ROP,supplier_failure,25,614.43,228.14
+Adaptive ROP,supplier_failure,26,664.27,233.81
+Adaptive ROP,supplier_failure,27,724.13,241.54
+Adaptive ROP,supplier_failure,28,761.33,263.57
+Adaptive ROP,supplier_failure,29,789.27,265.67
+Adaptive ROP,supplier_failure,30,828.0,276.31
+Adaptive ROP,supplier_failure,31,874.53,276.83
+Adaptive ROP,supplier_failure,32,935.0,291.46
+Adaptive ROP,supplier_failure,33,980.57,317.4
+Adaptive ROP,supplier_failure,34,995.23,321.17
+Adaptive ROP,supplier_failure,35,1010.8,318.81
+Adaptive ROP,supplier_failure,36,1019.57,322.46
+Adaptive ROP,supplier_failure,37,1024.23,322.97
+Adaptive ROP,supplier_failure,38,1028.13,326.93
+Adaptive ROP,supplier_failure,39,1042.0,322.92
+Adaptive ROP,supplier_failure,40,1072.77,331.6
+Adaptive ROP,supplier_failure,41,1102.47,321.46
+Adaptive ROP,supplier_failure,42,1152.17,336.04
+Adaptive ROP,supplier_failure,43,1186.53,348.81
+Adaptive ROP,supplier_failure,44,1219.23,373.53
+Adaptive ROP,supplier_failure,45,1266.37,378.4
+Adaptive ROP,supplier_failure,46,1375.33,392.73
+Adaptive ROP,supplier_failure,47,1526.77,437.48
+Adaptive ROP,supplier_failure,48,1705.17,525.35
+Adaptive ROP,supplier_failure,49,1870.7,648.33
+Adaptive ROP,supplier_failure,50,2053.37,786.6
+Adaptive ROP,supplier_failure,51,2244.83,940.83
+Adaptive ROP,supplier_failure,52,2448.3,1118.31
+Adaptive ROP,supplier_failure,53,2672.0,1316.36
+Adaptive ROP,supplier_failure,54,2903.1,1504.24
+Adaptive ROP,supplier_failure,55,3130.33,1674.05
+Adaptive ROP,supplier_failure,56,3342.1,1858.12
+Adaptive ROP,supplier_failure,57,3554.3,2046.01
+Adaptive ROP,supplier_failure,58,3774.47,2234.96
+Adaptive ROP,supplier_failure,59,4017.97,2404.89
+Adaptive ROP,supplier_failure,60,4331.87,2549.74
+Adaptive ROP,supplier_failure,61,4698.17,2636.28
+Adaptive ROP,supplier_failure,62,5051.2,2678.98
+Adaptive ROP,supplier_failure,63,5422.43,2681.3
+Adaptive ROP,supplier_failure,64,5828.17,2688.97
+Adaptive ROP,supplier_failure,65,6224.83,2688.02
+Adaptive ROP,supplier_failure,66,6646.03,2685.69
+Adaptive ROP,supplier_failure,67,7129.43,2690.31
+Adaptive ROP,supplier_failure,68,7584.83,2688.47
+Adaptive ROP,supplier_failure,69,7983.4,2682.37
+Adaptive ROP,supplier_failure,70,8383.33,2690.47
+Adaptive ROP,supplier_failure,71,8791.93,2689.24
+Adaptive ROP,supplier_failure,72,9215.03,2695.7
+Adaptive ROP,supplier_failure,73,9660.27,2698.89
+Adaptive ROP,supplier_failure,74,10175.53,2705.55
+Adaptive ROP,supplier_failure,75,10652.5,2687.46
+Adaptive ROP,supplier_failure,76,11027.87,2674.52
+Adaptive ROP,supplier_failure,77,11397.6,2635.77
+Adaptive ROP,supplier_failure,78,11732.0,2564.55
+Adaptive ROP,supplier_failure,79,12053.53,2457.16
+Adaptive ROP,supplier_failure,80,12372.17,2312.44
+Adaptive ROP,supplier_failure,81,12691.7,2134.98
+Adaptive ROP,supplier_failure,82,12946.03,1934.74
+Adaptive ROP,supplier_failure,83,13151.43,1782.6
+Adaptive ROP,supplier_failure,84,13358.1,1647.39
+Adaptive ROP,supplier_failure,85,13576.03,1515.29
+Adaptive ROP,supplier_failure,86,13784.43,1385.83
+Adaptive ROP,supplier_failure,87,13945.4,1299.7
+Adaptive ROP,supplier_failure,88,14073.97,1255.39
+Adaptive ROP,supplier_failure,89,14172.63,1251.65
+Adaptive ROP,supplier_failure,90,14261.7,1255.07
+Adaptive ROP,supplier_failure,91,14338.77,1254.48
+Adaptive ROP,supplier_failure,92,14380.0,1260.02
+Adaptive ROP,supplier_failure,93,14398.17,1267.16
+Adaptive ROP,supplier_failure,94,14414.03,1277.59
+Adaptive ROP,supplier_failure,95,14432.27,1278.3
+Adaptive ROP,supplier_failure,96,14453.5,1291.6
+Adaptive ROP,supplier_failure,97,14470.97,1297.38
+Adaptive ROP,supplier_failure,98,14498.53,1303.18
+Adaptive ROP,supplier_failure,99,14519.17,1300.4
+Adaptive ROP,supplier_failure,100,14541.4,1309.84
+Adaptive ROP,supplier_failure,101,14573.73,1317.06
+Adaptive ROP,supplier_failure,102,14622.9,1308.92
+Adaptive ROP,supplier_failure,103,14668.33,1303.72
+Adaptive ROP,supplier_failure,104,14701.17,1301.78
+Adaptive ROP,supplier_failure,105,14729.67,1298.58
+Adaptive ROP,supplier_failure,106,14764.13,1302.38
+Adaptive ROP,supplier_failure,107,14795.93,1313.91
+Adaptive ROP,supplier_failure,108,14821.43,1320.26
+Adaptive ROP,supplier_failure,109,14845.17,1336.04
+Adaptive ROP,supplier_failure,110,14871.8,1335.16
+Adaptive ROP,supplier_failure,111,14888.3,1335.93
+Adaptive ROP,supplier_failure,112,14897.9,1334.63
+Adaptive ROP,supplier_failure,113,14915.17,1334.53
+Adaptive ROP,supplier_failure,114,14935.77,1334.56
+Adaptive ROP,supplier_failure,115,14948.63,1331.9
+Adaptive ROP,supplier_failure,116,14982.67,1335.25
+Adaptive ROP,supplier_failure,117,15034.23,1325.1
+Adaptive ROP,supplier_failure,118,15069.27,1316.75
+Adaptive ROP,supplier_failure,119,15098.97,1299.63
+Adaptive ROP,weather_disruption,0,0.0,0.0
+Adaptive ROP,weather_disruption,1,0.0,0.0
+Adaptive ROP,weather_disruption,2,0.0,0.0
+Adaptive ROP,weather_disruption,3,0.0,0.0
+Adaptive ROP,weather_disruption,4,0.0,0.0
+Adaptive ROP,weather_disruption,5,0.0,0.0
+Adaptive ROP,weather_disruption,6,0.0,0.0
+Adaptive ROP,weather_disruption,7,0.0,0.0
+Adaptive ROP,weather_disruption,8,0.5,2.74
+Adaptive ROP,weather_disruption,9,2.4,6.89
+Adaptive ROP,weather_disruption,10,14.47,17.17
+Adaptive ROP,weather_disruption,11,61.37,47.02
+Adaptive ROP,weather_disruption,12,98.93,71.04
+Adaptive ROP,weather_disruption,13,113.17,88.04
+Adaptive ROP,weather_disruption,14,133.03,96.79
+Adaptive ROP,weather_disruption,15,171.83,118.59
+Adaptive ROP,weather_disruption,16,254.63,128.76
+Adaptive ROP,weather_disruption,17,380.43,146.63
+Adaptive ROP,weather_disruption,18,436.6,178.1
+Adaptive ROP,weather_disruption,19,480.7,214.72
+Adaptive ROP,weather_disruption,20,509.9,237.14
+Adaptive ROP,weather_disruption,21,523.77,246.09
+Adaptive ROP,weather_disruption,22,534.1,250.39
+Adaptive ROP,weather_disruption,23,538.73,252.04
+Adaptive ROP,weather_disruption,24,543.43,250.99
+Adaptive ROP,weather_disruption,25,563.03,261.25
+Adaptive ROP,weather_disruption,26,614.57,291.86
+Adaptive ROP,weather_disruption,27,679.83,308.19
+Adaptive ROP,weather_disruption,28,711.9,320.67
+Adaptive ROP,weather_disruption,29,740.0,329.71
+Adaptive ROP,weather_disruption,30,772.37,330.08
+Adaptive ROP,weather_disruption,31,827.07,315.97
+Adaptive ROP,weather_disruption,32,869.43,323.78
+Adaptive ROP,weather_disruption,33,904.47,334.94
+Adaptive ROP,weather_disruption,34,924.5,333.22
+Adaptive ROP,weather_disruption,35,938.17,343.05
+Adaptive ROP,weather_disruption,36,943.87,347.04
+Adaptive ROP,weather_disruption,37,951.9,347.34
+Adaptive ROP,weather_disruption,38,958.4,347.37
+Adaptive ROP,weather_disruption,39,969.47,346.75
+Adaptive ROP,weather_disruption,40,1004.47,338.05
+Adaptive ROP,weather_disruption,41,1051.2,335.17
+Adaptive ROP,weather_disruption,42,1097.0,342.63
+Adaptive ROP,weather_disruption,43,1137.73,347.19
+Adaptive ROP,weather_disruption,44,1164.3,350.38
+Adaptive ROP,weather_disruption,45,1236.6,340.33
+Adaptive ROP,weather_disruption,46,1362.43,352.95
+Adaptive ROP,weather_disruption,47,1507.6,432.54
+Adaptive ROP,weather_disruption,48,1647.1,557.88
+Adaptive ROP,weather_disruption,49,1784.67,706.26
+Adaptive ROP,weather_disruption,50,1926.3,866.09
+Adaptive ROP,weather_disruption,51,2061.53,1022.54
+Adaptive ROP,weather_disruption,52,2207.17,1189.41
+Adaptive ROP,weather_disruption,53,2383.87,1383.66
+Adaptive ROP,weather_disruption,54,2547.63,1553.21
+Adaptive ROP,weather_disruption,55,2693.57,1704.88
+Adaptive ROP,weather_disruption,56,2843.9,1822.37
+Adaptive ROP,weather_disruption,57,2959.87,1902.24
+Adaptive ROP,weather_disruption,58,3080.87,1951.04
+Adaptive ROP,weather_disruption,59,3222.07,1949.39
+Adaptive ROP,weather_disruption,60,3464.33,1867.28
+Adaptive ROP,weather_disruption,61,3771.63,1748.74
+Adaptive ROP,weather_disruption,62,4064.47,1621.57
+Adaptive ROP,weather_disruption,63,4359.03,1474.14
+Adaptive ROP,weather_disruption,64,4669.33,1330.77
+Adaptive ROP,weather_disruption,65,4981.13,1199.03
+Adaptive ROP,weather_disruption,66,5305.13,1063.43
+Adaptive ROP,weather_disruption,67,5647.7,940.8
+Adaptive ROP,weather_disruption,68,5987.07,849.94
+Adaptive ROP,weather_disruption,69,6269.33,794.11
+Adaptive ROP,weather_disruption,70,6522.77,768.73
+Adaptive ROP,weather_disruption,71,6757.67,787.06
+Adaptive ROP,weather_disruption,72,6922.0,817.24
+Adaptive ROP,weather_disruption,73,7027.13,849.45
+Adaptive ROP,weather_disruption,74,7107.17,876.6
+Adaptive ROP,weather_disruption,75,7163.13,884.21
+Adaptive ROP,weather_disruption,76,7206.77,890.62
+Adaptive ROP,weather_disruption,77,7237.1,895.18
+Adaptive ROP,weather_disruption,78,7260.77,889.44
+Adaptive ROP,weather_disruption,79,7275.83,896.07
+Adaptive ROP,weather_disruption,80,7290.57,905.11
+Adaptive ROP,weather_disruption,81,7302.27,906.82
+Adaptive ROP,weather_disruption,82,7316.6,904.04
+Adaptive ROP,weather_disruption,83,7335.83,906.58
+Adaptive ROP,weather_disruption,84,7356.93,908.38
+Adaptive ROP,weather_disruption,85,7389.67,920.74
+Adaptive ROP,weather_disruption,86,7423.9,923.04
+Adaptive ROP,weather_disruption,87,7463.43,924.77
+Adaptive ROP,weather_disruption,88,7524.8,937.1
+Adaptive ROP,weather_disruption,89,7581.07,940.89
+Adaptive ROP,weather_disruption,90,7621.83,920.36
+Adaptive ROP,weather_disruption,91,7648.3,920.62
+Adaptive ROP,weather_disruption,92,7679.0,930.31
+Adaptive ROP,weather_disruption,93,7703.73,927.29
+Adaptive ROP,weather_disruption,94,7716.5,931.67
+Adaptive ROP,weather_disruption,95,7736.87,928.36
+Adaptive ROP,weather_disruption,96,7755.13,929.03
+Adaptive ROP,weather_disruption,97,7767.97,928.09
+Adaptive ROP,weather_disruption,98,7780.77,926.17
+Adaptive ROP,weather_disruption,99,7799.37,922.13
+Adaptive ROP,weather_disruption,100,7821.23,906.15
+Adaptive ROP,weather_disruption,101,7860.6,895.24
+Adaptive ROP,weather_disruption,102,7909.43,877.62
+Adaptive ROP,weather_disruption,103,7950.07,874.87
+Adaptive ROP,weather_disruption,104,7997.6,858.94
+Adaptive ROP,weather_disruption,105,8031.33,861.54
+Adaptive ROP,weather_disruption,106,8056.27,863.04
+Adaptive ROP,weather_disruption,107,8078.4,866.08
+Adaptive ROP,weather_disruption,108,8092.67,866.34
+Adaptive ROP,weather_disruption,109,8112.83,861.94
+Adaptive ROP,weather_disruption,110,8123.57,857.84
+Adaptive ROP,weather_disruption,111,8132.13,859.46
+Adaptive ROP,weather_disruption,112,8142.97,862.06
+Adaptive ROP,weather_disruption,113,8166.03,863.04
+Adaptive ROP,weather_disruption,114,8190.23,854.32
+Adaptive ROP,weather_disruption,115,8235.17,864.19
+Adaptive ROP,weather_disruption,116,8289.67,867.47
+Adaptive ROP,weather_disruption,117,8346.07,881.78
+Adaptive ROP,weather_disruption,118,8383.2,880.91
+Adaptive ROP,weather_disruption,119,8421.77,895.33
+Adaptive ROP,festival_surge,0,0.0,0.0
+Adaptive ROP,festival_surge,1,0.0,0.0
+Adaptive ROP,festival_surge,2,0.0,0.0
+Adaptive ROP,festival_surge,3,0.0,0.0
+Adaptive ROP,festival_surge,4,0.0,0.0
+Adaptive ROP,festival_surge,5,0.0,0.0
+Adaptive ROP,festival_surge,6,0.0,0.0
+Adaptive ROP,festival_surge,7,0.6,3.29
+Adaptive ROP,festival_surge,8,2.0,10.95
+Adaptive ROP,festival_surge,9,5.4,12.66
+Adaptive ROP,festival_surge,10,17.7,18.98
+Adaptive ROP,festival_surge,11,61.07,42.67
+Adaptive ROP,festival_surge,12,122.13,111.61
+Adaptive ROP,festival_surge,13,155.73,149.55
+Adaptive ROP,festival_surge,14,179.53,171.87
+Adaptive ROP,festival_surge,15,207.5,169.21
+Adaptive ROP,festival_surge,16,273.07,165.96
+Adaptive ROP,festival_surge,17,402.73,184.81
+Adaptive ROP,festival_surge,18,497.03,213.04
+Adaptive ROP,festival_surge,19,537.43,219.83
+Adaptive ROP,festival_surge,20,562.03,227.05
+Adaptive ROP,festival_surge,21,574.43,226.95
+Adaptive ROP,festival_surge,22,581.4,227.85
+Adaptive ROP,festival_surge,23,586.3,224.7
+Adaptive ROP,festival_surge,24,595.27,227.42
+Adaptive ROP,festival_surge,25,618.33,225.97
+Adaptive ROP,festival_surge,26,690.0,240.39
+Adaptive ROP,festival_surge,27,746.97,241.86
+Adaptive ROP,festival_surge,28,782.0,244.61
+Adaptive ROP,festival_surge,29,808.93,251.78
+Adaptive ROP,festival_surge,30,852.77,259.58
+Adaptive ROP,festival_surge,31,899.83,271.44
+Adaptive ROP,festival_surge,32,946.1,281.14
+Adaptive ROP,festival_surge,33,985.1,284.5
+Adaptive ROP,festival_surge,34,1006.2,289.26
+Adaptive ROP,festival_surge,35,1028.17,293.06
+Adaptive ROP,festival_surge,36,1040.2,298.23
+Adaptive ROP,festival_surge,37,1050.7,300.01
+Adaptive ROP,festival_surge,38,1054.33,299.76
+Adaptive ROP,festival_surge,39,1064.13,296.35
+Adaptive ROP,festival_surge,40,1081.27,298.0
+Adaptive ROP,festival_surge,41,1126.17,307.24
+Adaptive ROP,festival_surge,42,1171.77,318.36
+Adaptive ROP,festival_surge,43,1195.6,320.14
+Adaptive ROP,festival_surge,44,1210.13,322.11
+Adaptive ROP,festival_surge,45,1257.77,332.06
+Adaptive ROP,festival_surge,46,1319.53,348.36
+Adaptive ROP,festival_surge,47,1364.97,378.15
+Adaptive ROP,festival_surge,48,1398.93,396.81
+Adaptive ROP,festival_surge,49,1421.63,397.27
+Adaptive ROP,festival_surge,50,1435.9,394.05
+Adaptive ROP,festival_surge,51,1451.8,396.24
+Adaptive ROP,festival_surge,52,1468.77,409.81
+Adaptive ROP,festival_surge,53,1531.43,424.14
+Adaptive ROP,festival_surge,54,1693.03,608.12
+Adaptive ROP,festival_surge,55,1978.77,947.7
+Adaptive ROP,festival_surge,56,2395.7,1407.88
+Adaptive ROP,festival_surge,57,2934.53,1968.23
+Adaptive ROP,festival_surge,58,3494.27,2542.74
+Adaptive ROP,festival_surge,59,4163.8,3084.95
+Adaptive ROP,festival_surge,60,4912.07,3484.85
+Adaptive ROP,festival_surge,61,5486.03,3684.92
+Adaptive ROP,festival_surge,62,5821.57,3789.87
+Adaptive ROP,festival_surge,63,6023.2,3832.58
+Adaptive ROP,festival_surge,64,6210.57,3857.89
+Adaptive ROP,festival_surge,65,6387.23,3896.14
+Adaptive ROP,festival_surge,66,6628.13,3919.97
+Adaptive ROP,festival_surge,67,7031.67,3859.07
+Adaptive ROP,festival_surge,68,7620.43,3629.52
+Adaptive ROP,festival_surge,69,8174.77,3230.9
+Adaptive ROP,festival_surge,70,8747.37,2761.74
+Adaptive ROP,festival_surge,71,9244.03,2315.74
+Adaptive ROP,festival_surge,72,9652.87,1944.73
+Adaptive ROP,festival_surge,73,9947.87,1730.88
+Adaptive ROP,festival_surge,74,10191.47,1604.84
+Adaptive ROP,festival_surge,75,10342.47,1557.18
+Adaptive ROP,festival_surge,76,10408.37,1554.26
+Adaptive ROP,festival_surge,77,10435.67,1552.04
+Adaptive ROP,festival_surge,78,10456.63,1555.99
+Adaptive ROP,festival_surge,79,10494.3,1563.65
+Adaptive ROP,festival_surge,80,10546.13,1563.97
+Adaptive ROP,festival_surge,81,10576.13,1565.38
+Adaptive ROP,festival_surge,82,10603.6,1584.24
+Adaptive ROP,festival_surge,83,10625.77,1601.38
+Adaptive ROP,festival_surge,84,10640.6,1612.0
+Adaptive ROP,festival_surge,85,10646.6,1615.3
+Adaptive ROP,festival_surge,86,10647.87,1615.82
+Adaptive ROP,festival_surge,87,10655.27,1618.41
+Adaptive ROP,festival_surge,88,10667.8,1621.12
+Adaptive ROP,festival_surge,89,10670.4,1621.45
+Adaptive ROP,festival_surge,90,10675.4,1619.25
+Adaptive ROP,festival_surge,91,10681.03,1618.2
+Adaptive ROP,festival_surge,92,10681.9,1617.78
+Adaptive ROP,festival_surge,93,10682.83,1617.65
+Adaptive ROP,festival_surge,94,10683.7,1618.03
+Adaptive ROP,festival_surge,95,10686.37,1617.25
+Adaptive ROP,festival_surge,96,10692.2,1619.59
+Adaptive ROP,festival_surge,97,10697.1,1620.44
+Adaptive ROP,festival_surge,98,10709.2,1616.0
+Adaptive ROP,festival_surge,99,10719.23,1618.59
+Adaptive ROP,festival_surge,100,10732.2,1622.94
+Adaptive ROP,festival_surge,101,10744.3,1622.59
+Adaptive ROP,festival_surge,102,10755.87,1623.05
+Adaptive ROP,festival_surge,103,10776.4,1627.07
+Adaptive ROP,festival_surge,104,10789.63,1635.17
+Adaptive ROP,festival_surge,105,10801.97,1635.4
+Adaptive ROP,festival_surge,106,10812.13,1637.03
+Adaptive ROP,festival_surge,107,10822.47,1637.53
+Adaptive ROP,festival_surge,108,10844.07,1628.25
+Adaptive ROP,festival_surge,109,10878.73,1627.91
+Adaptive ROP,festival_surge,110,10895.0,1633.62
+Adaptive ROP,festival_surge,111,10920.9,1638.12
+Adaptive ROP,festival_surge,112,10944.83,1629.23
+Adaptive ROP,festival_surge,113,10964.87,1627.47
+Adaptive ROP,festival_surge,114,10991.07,1626.55
+Adaptive ROP,festival_surge,115,11016.63,1624.36
+Adaptive ROP,festival_surge,116,11055.83,1619.84
+Adaptive ROP,festival_surge,117,11100.33,1616.28
+Adaptive ROP,festival_surge,118,11130.27,1605.6
+Adaptive ROP,festival_surge,119,11149.77,1610.08
+Reactive dual-source,commodity_shortage,0,0.0,0.0
+Reactive dual-source,commodity_shortage,1,0.0,0.0
+Reactive dual-source,commodity_shortage,2,0.0,0.0
+Reactive dual-source,commodity_shortage,3,0.0,0.0
+Reactive dual-source,commodity_shortage,4,0.0,0.0
+Reactive dual-source,commodity_shortage,5,0.0,0.0
+Reactive dual-source,commodity_shortage,6,0.0,0.0
+Reactive dual-source,commodity_shortage,7,0.0,0.0
+Reactive dual-source,commodity_shortage,8,0.0,0.0
+Reactive dual-source,commodity_shortage,9,0.67,3.29
+Reactive dual-source,commodity_shortage,10,6.93,10.41
+Reactive dual-source,commodity_shortage,11,42.6,38.13
+Reactive dual-source,commodity_shortage,12,61.63,60.91
+Reactive dual-source,commodity_shortage,13,69.37,71.43
+Reactive dual-source,commodity_shortage,14,77.4,74.58
+Reactive dual-source,commodity_shortage,15,86.23,72.18
+Reactive dual-source,commodity_shortage,16,98.37,75.31
+Reactive dual-source,commodity_shortage,17,116.77,85.13
+Reactive dual-source,commodity_shortage,18,146.4,108.02
+Reactive dual-source,commodity_shortage,19,157.43,112.58
+Reactive dual-source,commodity_shortage,20,161.9,116.74
+Reactive dual-source,commodity_shortage,21,162.03,116.58
+Reactive dual-source,commodity_shortage,22,162.13,116.57
+Reactive dual-source,commodity_shortage,23,163.43,116.33
+Reactive dual-source,commodity_shortage,24,167.9,113.93
+Reactive dual-source,commodity_shortage,25,181.47,115.27
+Reactive dual-source,commodity_shortage,26,213.77,132.41
+Reactive dual-source,commodity_shortage,27,243.07,135.37
+Reactive dual-source,commodity_shortage,28,257.67,141.09
+Reactive dual-source,commodity_shortage,29,266.27,145.29
+Reactive dual-source,commodity_shortage,30,276.3,143.99
+Reactive dual-source,commodity_shortage,31,301.2,156.87
+Reactive dual-source,commodity_shortage,32,321.63,167.49
+Reactive dual-source,commodity_shortage,33,336.57,176.58
+Reactive dual-source,commodity_shortage,34,345.7,180.16
+Reactive dual-source,commodity_shortage,35,352.67,178.82
+Reactive dual-source,commodity_shortage,36,355.77,176.47
+Reactive dual-source,commodity_shortage,37,358.37,177.07
+Reactive dual-source,commodity_shortage,38,359.37,177.23
+Reactive dual-source,commodity_shortage,39,367.13,178.37
+Reactive dual-source,commodity_shortage,40,402.33,191.39
+Reactive dual-source,commodity_shortage,41,487.4,226.77
+Reactive dual-source,commodity_shortage,42,634.33,315.18
+Reactive dual-source,commodity_shortage,43,836.93,431.28
+Reactive dual-source,commodity_shortage,44,1077.0,575.33
+Reactive dual-source,commodity_shortage,45,1320.1,722.34
+Reactive dual-source,commodity_shortage,46,1586.73,874.79
+Reactive dual-source,commodity_shortage,47,1780.97,978.22
+Reactive dual-source,commodity_shortage,48,1879.97,1035.04
+Reactive dual-source,commodity_shortage,49,1920.87,1060.93
+Reactive dual-source,commodity_shortage,50,1949.33,1079.68
+Reactive dual-source,commodity_shortage,51,1966.73,1085.87
+Reactive dual-source,commodity_shortage,52,1976.13,1089.58
+Reactive dual-source,commodity_shortage,53,1987.4,1084.32
+Reactive dual-source,commodity_shortage,54,2013.1,1067.5
+Reactive dual-source,commodity_shortage,55,2041.2,1052.16
+Reactive dual-source,commodity_shortage,56,2080.9,1009.51
+Reactive dual-source,commodity_shortage,57,2145.13,927.89
+Reactive dual-source,commodity_shortage,58,2229.47,828.31
+Reactive dual-source,commodity_shortage,59,2337.27,717.07
+Reactive dual-source,commodity_shortage,60,2460.3,609.96
+Reactive dual-source,commodity_shortage,61,2585.8,559.04
+Reactive dual-source,commodity_shortage,62,2665.57,540.03
+Reactive dual-source,commodity_shortage,63,2718.97,540.24
+Reactive dual-source,commodity_shortage,64,2748.9,541.83
+Reactive dual-source,commodity_shortage,65,2770.43,548.02
+Reactive dual-source,commodity_shortage,66,2791.7,557.01
+Reactive dual-source,commodity_shortage,67,2804.43,558.7
+Reactive dual-source,commodity_shortage,68,2812.87,553.04
+Reactive dual-source,commodity_shortage,69,2822.2,551.22
+Reactive dual-source,commodity_shortage,70,2855.3,545.51
+Reactive dual-source,commodity_shortage,71,2906.47,535.51
+Reactive dual-source,commodity_shortage,72,2987.47,539.03
+Reactive dual-source,commodity_shortage,73,3094.2,568.5
+Reactive dual-source,commodity_shortage,74,3258.33,637.16
+Reactive dual-source,commodity_shortage,75,3431.4,769.84
+Reactive dual-source,commodity_shortage,76,3562.53,887.68
+Reactive dual-source,commodity_shortage,77,3673.73,1000.98
+Reactive dual-source,commodity_shortage,78,3766.23,1080.15
+Reactive dual-source,commodity_shortage,79,3817.37,1126.6
+Reactive dual-source,commodity_shortage,80,3849.2,1151.31
+Reactive dual-source,commodity_shortage,81,3870.83,1164.82
+Reactive dual-source,commodity_shortage,82,3878.37,1170.68
+Reactive dual-source,commodity_shortage,83,3889.53,1175.41
+Reactive dual-source,commodity_shortage,84,3897.93,1170.41
+Reactive dual-source,commodity_shortage,85,3914.7,1159.94
+Reactive dual-source,commodity_shortage,86,3945.53,1141.21
+Reactive dual-source,commodity_shortage,87,3980.13,1113.69
+Reactive dual-source,commodity_shortage,88,4036.1,1080.37
+Reactive dual-source,commodity_shortage,89,4110.87,1048.73
+Reactive dual-source,commodity_shortage,90,4171.17,1033.59
+Reactive dual-source,commodity_shortage,91,4225.67,1032.93
+Reactive dual-source,commodity_shortage,92,4266.23,1038.94
+Reactive dual-source,commodity_shortage,93,4290.87,1061.03
+Reactive dual-source,commodity_shortage,94,4305.5,1067.31
+Reactive dual-source,commodity_shortage,95,4316.13,1066.86
+Reactive dual-source,commodity_shortage,96,4330.63,1068.17
+Reactive dual-source,commodity_shortage,97,4337.27,1066.3
+Reactive dual-source,commodity_shortage,98,4341.7,1068.63
+Reactive dual-source,commodity_shortage,99,4346.7,1066.9
+Reactive dual-source,commodity_shortage,100,4351.7,1066.64
+Reactive dual-source,commodity_shortage,101,4363.63,1064.44
+Reactive dual-source,commodity_shortage,102,4379.5,1065.18
+Reactive dual-source,commodity_shortage,103,4407.77,1069.24
+Reactive dual-source,commodity_shortage,104,4427.33,1076.39
+Reactive dual-source,commodity_shortage,105,4447.1,1076.14
+Reactive dual-source,commodity_shortage,106,4464.8,1074.57
+Reactive dual-source,commodity_shortage,107,4475.93,1068.84
+Reactive dual-source,commodity_shortage,108,4489.5,1077.0
+Reactive dual-source,commodity_shortage,109,4501.03,1086.78
+Reactive dual-source,commodity_shortage,110,4509.53,1093.84
+Reactive dual-source,commodity_shortage,111,4516.97,1095.53
+Reactive dual-source,commodity_shortage,112,4522.27,1092.74
+Reactive dual-source,commodity_shortage,113,4523.47,1094.08
+Reactive dual-source,commodity_shortage,114,4528.7,1092.28
+Reactive dual-source,commodity_shortage,115,4532.3,1091.43
+Reactive dual-source,commodity_shortage,116,4541.9,1092.51
+Reactive dual-source,commodity_shortage,117,4563.53,1098.93
+Reactive dual-source,commodity_shortage,118,4592.53,1096.53
+Reactive dual-source,commodity_shortage,119,4600.67,1098.73
+Reactive dual-source,supplier_failure,0,0.0,0.0
+Reactive dual-source,supplier_failure,1,0.0,0.0
+Reactive dual-source,supplier_failure,2,0.0,0.0
+Reactive dual-source,supplier_failure,3,0.0,0.0
+Reactive dual-source,supplier_failure,4,0.0,0.0
+Reactive dual-source,supplier_failure,5,0.0,0.0
+Reactive dual-source,supplier_failure,6,0.0,0.0
+Reactive dual-source,supplier_failure,7,0.0,0.0
+Reactive dual-source,supplier_failure,8,0.5,2.74
+Reactive dual-source,supplier_failure,9,4.8,11.45
+Reactive dual-source,supplier_failure,10,12.57,17.27
+Reactive dual-source,supplier_failure,11,58.13,57.1
+Reactive dual-source,supplier_failure,12,85.43,79.85
+Reactive dual-source,supplier_failure,13,114.6,117.88
+Reactive dual-source,supplier_failure,14,130.5,138.79
+Reactive dual-source,supplier_failure,15,139.6,139.59
+Reactive dual-source,supplier_failure,16,150.0,149.7
+Reactive dual-source,supplier_failure,17,161.77,170.12
+Reactive dual-source,supplier_failure,18,176.73,183.76
+Reactive dual-source,supplier_failure,19,192.4,199.98
+Reactive dual-source,supplier_failure,20,196.33,203.01
+Reactive dual-source,supplier_failure,21,197.27,203.57
+Reactive dual-source,supplier_failure,22,197.97,204.13
+Reactive dual-source,supplier_failure,23,199.03,203.88
+Reactive dual-source,supplier_failure,24,206.87,206.29
+Reactive dual-source,supplier_failure,25,218.7,205.51
+Reactive dual-source,supplier_failure,26,253.5,219.02
+Reactive dual-source,supplier_failure,27,286.33,239.74
+Reactive dual-source,supplier_failure,28,303.9,249.18
+Reactive dual-source,supplier_failure,29,316.2,253.5
+Reactive dual-source,supplier_failure,30,326.67,253.36
+Reactive dual-source,supplier_failure,31,342.07,253.55
+Reactive dual-source,supplier_failure,32,363.07,261.14
+Reactive dual-source,supplier_failure,33,371.6,257.55
+Reactive dual-source,supplier_failure,34,377.13,260.07
+Reactive dual-source,supplier_failure,35,385.53,270.08
+Reactive dual-source,supplier_failure,36,393.73,284.24
+Reactive dual-source,supplier_failure,37,399.6,291.66
+Reactive dual-source,supplier_failure,38,401.93,290.55
+Reactive dual-source,supplier_failure,39,409.6,287.63
+Reactive dual-source,supplier_failure,40,436.63,277.67
+Reactive dual-source,supplier_failure,41,465.8,275.91
+Reactive dual-source,supplier_failure,42,502.5,281.57
+Reactive dual-source,supplier_failure,43,525.07,281.4
+Reactive dual-source,supplier_failure,44,544.7,277.75
+Reactive dual-source,supplier_failure,45,571.8,289.74
+Reactive dual-source,supplier_failure,46,631.33,323.56
+Reactive dual-source,supplier_failure,47,732.9,378.51
+Reactive dual-source,supplier_failure,48,859.07,480.74
+Reactive dual-source,supplier_failure,49,990.3,607.03
+Reactive dual-source,supplier_failure,50,1153.93,758.36
+Reactive dual-source,supplier_failure,51,1320.33,923.6
+Reactive dual-source,supplier_failure,52,1502.7,1114.67
+Reactive dual-source,supplier_failure,53,1703.8,1325.62
+Reactive dual-source,supplier_failure,54,1883.87,1502.34
+Reactive dual-source,supplier_failure,55,2013.87,1622.47
+Reactive dual-source,supplier_failure,56,2102.97,1685.79
+Reactive dual-source,supplier_failure,57,2148.23,1710.2
+Reactive dual-source,supplier_failure,58,2174.57,1715.73
+Reactive dual-source,supplier_failure,59,2205.77,1719.22
+Reactive dual-source,supplier_failure,60,2275.67,1696.97
+Reactive dual-source,supplier_failure,61,2392.87,1596.27
+Reactive dual-source,supplier_failure,62,2531.87,1477.17
+Reactive dual-source,supplier_failure,63,2697.5,1338.69
+Reactive dual-source,supplier_failure,64,2900.43,1177.24
+Reactive dual-source,supplier_failure,65,3106.23,1013.05
+Reactive dual-source,supplier_failure,66,3316.97,848.11
+Reactive dual-source,supplier_failure,67,3555.1,684.54
+Reactive dual-source,supplier_failure,68,3764.23,578.82
+Reactive dual-source,supplier_failure,69,3905.87,548.34
+Reactive dual-source,supplier_failure,70,3987.37,552.24
+Reactive dual-source,supplier_failure,71,4036.6,565.97
+Reactive dual-source,supplier_failure,72,4067.37,579.49
+Reactive dual-source,supplier_failure,73,4083.83,587.85
+Reactive dual-source,supplier_failure,74,4110.17,595.6
+Reactive dual-source,supplier_failure,75,4146.37,607.13
+Reactive dual-source,supplier_failure,76,4194.0,633.18
+Reactive dual-source,supplier_failure,77,4264.07,673.7
+Reactive dual-source,supplier_failure,78,4343.4,733.28
+Reactive dual-source,supplier_failure,79,4421.5,798.41
+Reactive dual-source,supplier_failure,80,4483.13,852.51
+Reactive dual-source,supplier_failure,81,4528.83,893.7
+Reactive dual-source,supplier_failure,82,4544.83,888.49
+Reactive dual-source,supplier_failure,83,4564.2,881.01
+Reactive dual-source,supplier_failure,84,4580.43,880.09
+Reactive dual-source,supplier_failure,85,4596.9,875.14
+Reactive dual-source,supplier_failure,86,4610.57,869.94
+Reactive dual-source,supplier_failure,87,4622.53,865.31
+Reactive dual-source,supplier_failure,88,4635.53,860.07
+Reactive dual-source,supplier_failure,89,4654.87,866.69
+Reactive dual-source,supplier_failure,90,4681.43,870.22
+Reactive dual-source,supplier_failure,91,4705.33,862.66
+Reactive dual-source,supplier_failure,92,4724.87,857.6
+Reactive dual-source,supplier_failure,93,4732.57,861.92
+Reactive dual-source,supplier_failure,94,4740.03,868.58
+Reactive dual-source,supplier_failure,95,4745.43,868.7
+Reactive dual-source,supplier_failure,96,4755.03,874.76
+Reactive dual-source,supplier_failure,97,4773.47,888.36
+Reactive dual-source,supplier_failure,98,4789.43,903.38
+Reactive dual-source,supplier_failure,99,4808.17,899.13
+Reactive dual-source,supplier_failure,100,4818.9,898.62
+Reactive dual-source,supplier_failure,101,4834.5,898.43
+Reactive dual-source,supplier_failure,102,4859.3,895.88
+Reactive dual-source,supplier_failure,103,4886.77,902.98
+Reactive dual-source,supplier_failure,104,4898.47,898.45
+Reactive dual-source,supplier_failure,105,4909.9,891.51
+Reactive dual-source,supplier_failure,106,4921.1,886.79
+Reactive dual-source,supplier_failure,107,4942.87,893.26
+Reactive dual-source,supplier_failure,108,4965.27,897.21
+Reactive dual-source,supplier_failure,109,4985.43,906.5
+Reactive dual-source,supplier_failure,110,5000.4,905.89
+Reactive dual-source,supplier_failure,111,5005.63,907.55
+Reactive dual-source,supplier_failure,112,5012.07,903.3
+Reactive dual-source,supplier_failure,113,5022.4,905.27
+Reactive dual-source,supplier_failure,114,5029.93,907.96
+Reactive dual-source,supplier_failure,115,5037.5,902.74
+Reactive dual-source,supplier_failure,116,5059.47,894.34
+Reactive dual-source,supplier_failure,117,5074.0,894.17
+Reactive dual-source,supplier_failure,118,5079.73,892.88
+Reactive dual-source,supplier_failure,119,5084.8,890.46
+Reactive dual-source,weather_disruption,0,0.0,0.0
+Reactive dual-source,weather_disruption,1,0.0,0.0
+Reactive dual-source,weather_disruption,2,0.0,0.0
+Reactive dual-source,weather_disruption,3,0.0,0.0
+Reactive dual-source,weather_disruption,4,0.0,0.0
+Reactive dual-source,weather_disruption,5,0.0,0.0
+Reactive dual-source,weather_disruption,6,0.0,0.0
+Reactive dual-source,weather_disruption,7,0.0,0.0
+Reactive dual-source,weather_disruption,8,0.5,2.74
+Reactive dual-source,weather_disruption,9,1.33,4.04
+Reactive dual-source,weather_disruption,10,7.77,11.72
+Reactive dual-source,weather_disruption,11,42.33,40.23
+Reactive dual-source,weather_disruption,12,59.2,57.31
+Reactive dual-source,weather_disruption,13,67.57,73.6
+Reactive dual-source,weather_disruption,14,72.7,75.81
+Reactive dual-source,weather_disruption,15,85.07,73.78
+Reactive dual-source,weather_disruption,16,107.63,80.76
+Reactive dual-source,weather_disruption,17,136.63,95.4
+Reactive dual-source,weather_disruption,18,152.73,106.19
+Reactive dual-source,weather_disruption,19,164.4,112.22
+Reactive dual-source,weather_disruption,20,168.97,112.44
+Reactive dual-source,weather_disruption,21,169.43,112.94
+Reactive dual-source,weather_disruption,22,169.5,112.93
+Reactive dual-source,weather_disruption,23,170.47,113.67
+Reactive dual-source,weather_disruption,24,178.03,111.83
+Reactive dual-source,weather_disruption,25,196.5,114.76
+Reactive dual-source,weather_disruption,26,235.1,136.97
+Reactive dual-source,weather_disruption,27,263.57,146.83
+Reactive dual-source,weather_disruption,28,271.33,146.52
+Reactive dual-source,weather_disruption,29,284.73,149.28
+Reactive dual-source,weather_disruption,30,290.0,148.35
+Reactive dual-source,weather_disruption,31,310.73,152.84
+Reactive dual-source,weather_disruption,32,320.47,157.8
+Reactive dual-source,weather_disruption,33,333.1,170.64
+Reactive dual-source,weather_disruption,34,341.37,178.2
+Reactive dual-source,weather_disruption,35,344.47,178.09
+Reactive dual-source,weather_disruption,36,347.67,181.63
+Reactive dual-source,weather_disruption,37,350.97,184.15
+Reactive dual-source,weather_disruption,38,354.6,182.48
+Reactive dual-source,weather_disruption,39,367.67,183.33
+Reactive dual-source,weather_disruption,40,401.87,190.53
+Reactive dual-source,weather_disruption,41,436.27,194.77
+Reactive dual-source,weather_disruption,42,465.8,197.53
+Reactive dual-source,weather_disruption,43,481.57,210.04
+Reactive dual-source,weather_disruption,44,496.8,215.59
+Reactive dual-source,weather_disruption,45,522.83,225.83
+Reactive dual-source,weather_disruption,46,580.03,253.29
+Reactive dual-source,weather_disruption,47,688.6,328.96
+Reactive dual-source,weather_disruption,48,811.9,439.29
+Reactive dual-source,weather_disruption,49,944.33,580.7
+Reactive dual-source,weather_disruption,50,1081.03,741.39
+Reactive dual-source,weather_disruption,51,1219.47,908.94
+Reactive dual-source,weather_disruption,52,1366.3,1083.39
+Reactive dual-source,weather_disruption,53,1538.23,1296.04
+Reactive dual-source,weather_disruption,54,1702.37,1478.09
+Reactive dual-source,weather_disruption,55,1853.1,1625.64
+Reactive dual-source,weather_disruption,56,1989.1,1748.37
+Reactive dual-source,weather_disruption,57,2092.27,1843.47
+Reactive dual-source,weather_disruption,58,2177.37,1905.33
+Reactive dual-source,weather_disruption,59,2247.17,1915.2
+Reactive dual-source,weather_disruption,60,2370.53,1881.98
+Reactive dual-source,weather_disruption,61,2525.53,1804.65
+Reactive dual-source,weather_disruption,62,2687.23,1706.13
+Reactive dual-source,weather_disruption,63,2868.87,1601.49
+Reactive dual-source,weather_disruption,64,3080.23,1479.98
+Reactive dual-source,weather_disruption,65,3301.67,1362.44
+Reactive dual-source,weather_disruption,66,3541.9,1255.63
+Reactive dual-source,weather_disruption,67,3807.13,1179.5
+Reactive dual-source,weather_disruption,68,4074.83,1132.47
+Reactive dual-source,weather_disruption,69,4293.33,1152.96
+Reactive dual-source,weather_disruption,70,4494.93,1203.71
+Reactive dual-source,weather_disruption,71,4669.93,1261.42
+Reactive dual-source,weather_disruption,72,4812.63,1328.0
+Reactive dual-source,weather_disruption,73,4906.5,1379.41
+Reactive dual-source,weather_disruption,74,4975.53,1416.92
+Reactive dual-source,weather_disruption,75,5009.17,1425.87
+Reactive dual-source,weather_disruption,76,5028.67,1432.99
+Reactive dual-source,weather_disruption,77,5039.6,1434.27
+Reactive dual-source,weather_disruption,78,5047.97,1429.67
+Reactive dual-source,weather_disruption,79,5057.07,1424.34
+Reactive dual-source,weather_disruption,80,5067.47,1427.35
+Reactive dual-source,weather_disruption,81,5078.7,1427.45
+Reactive dual-source,weather_disruption,82,5084.4,1425.92
+Reactive dual-source,weather_disruption,83,5098.47,1419.46
+Reactive dual-source,weather_disruption,84,5104.7,1414.92
+Reactive dual-source,weather_disruption,85,5113.47,1413.66
+Reactive dual-source,weather_disruption,86,5122.33,1416.03
+Reactive dual-source,weather_disruption,87,5133.53,1410.45
+Reactive dual-source,weather_disruption,88,5157.1,1417.16
+Reactive dual-source,weather_disruption,89,5183.47,1425.83
+Reactive dual-source,weather_disruption,90,5205.63,1430.49
+Reactive dual-source,weather_disruption,91,5226.43,1433.49
+Reactive dual-source,weather_disruption,92,5237.43,1437.91
+Reactive dual-source,weather_disruption,93,5247.33,1440.8
+Reactive dual-source,weather_disruption,94,5256.93,1440.45
+Reactive dual-source,weather_disruption,95,5267.0,1444.05
+Reactive dual-source,weather_disruption,96,5276.67,1444.35
+Reactive dual-source,weather_disruption,97,5288.5,1433.64
+Reactive dual-source,weather_disruption,98,5296.87,1435.3
+Reactive dual-source,weather_disruption,99,5311.17,1430.65
+Reactive dual-source,weather_disruption,100,5323.83,1436.89
+Reactive dual-source,weather_disruption,101,5332.7,1433.86
+Reactive dual-source,weather_disruption,102,5355.53,1429.0
+Reactive dual-source,weather_disruption,103,5375.93,1423.28
+Reactive dual-source,weather_disruption,104,5385.77,1415.14
+Reactive dual-source,weather_disruption,105,5398.2,1409.08
+Reactive dual-source,weather_disruption,106,5411.2,1398.01
+Reactive dual-source,weather_disruption,107,5427.23,1385.92
+Reactive dual-source,weather_disruption,108,5436.97,1384.02
+Reactive dual-source,weather_disruption,109,5444.5,1380.04
+Reactive dual-source,weather_disruption,110,5452.73,1376.36
+Reactive dual-source,weather_disruption,111,5459.07,1372.61
+Reactive dual-source,weather_disruption,112,5463.83,1372.98
+Reactive dual-source,weather_disruption,113,5475.37,1374.31
+Reactive dual-source,weather_disruption,114,5483.53,1376.42
+Reactive dual-source,weather_disruption,115,5494.07,1378.6
+Reactive dual-source,weather_disruption,116,5518.0,1380.83
+Reactive dual-source,weather_disruption,117,5544.23,1384.53
+Reactive dual-source,weather_disruption,118,5561.5,1387.4
+Reactive dual-source,weather_disruption,119,5570.27,1386.67
+Reactive dual-source,festival_surge,0,0.0,0.0
+Reactive dual-source,festival_surge,1,0.0,0.0
+Reactive dual-source,festival_surge,2,0.0,0.0
+Reactive dual-source,festival_surge,3,0.0,0.0
+Reactive dual-source,festival_surge,4,0.0,0.0
+Reactive dual-source,festival_surge,5,0.0,0.0
+Reactive dual-source,festival_surge,6,0.0,0.0
+Reactive dual-source,festival_surge,7,0.6,3.29
+Reactive dual-source,festival_surge,8,2.0,10.95
+Reactive dual-source,festival_surge,9,5.4,12.66
+Reactive dual-source,festival_surge,10,15.57,16.94
+Reactive dual-source,festival_surge,11,49.9,35.16
+Reactive dual-source,festival_surge,12,88.3,90.81
+Reactive dual-source,festival_surge,13,108.7,125.05
+Reactive dual-source,festival_surge,14,122.4,148.18
+Reactive dual-source,festival_surge,15,134.37,145.07
+Reactive dual-source,festival_surge,16,148.23,142.22
+Reactive dual-source,festival_surge,17,170.83,151.01
+Reactive dual-source,festival_surge,18,192.2,154.24
+Reactive dual-source,festival_surge,19,211.57,160.13
+Reactive dual-source,festival_surge,20,218.2,165.4
+Reactive dual-source,festival_surge,21,219.4,165.44
+Reactive dual-source,festival_surge,22,219.83,165.56
+Reactive dual-source,festival_surge,23,221.57,167.66
+Reactive dual-source,festival_surge,24,229.9,169.79
+Reactive dual-source,festival_surge,25,258.03,174.69
+Reactive dual-source,festival_surge,26,304.27,183.46
+Reactive dual-source,festival_surge,27,340.9,194.55
+Reactive dual-source,festival_surge,28,360.93,199.97
+Reactive dual-source,festival_surge,29,377.2,203.26
+Reactive dual-source,festival_surge,30,383.47,204.13
+Reactive dual-source,festival_surge,31,402.2,200.66
+Reactive dual-source,festival_surge,32,437.07,203.32
+Reactive dual-source,festival_surge,33,460.8,217.93
+Reactive dual-source,festival_surge,34,471.33,228.39
+Reactive dual-source,festival_surge,35,479.47,237.63
+Reactive dual-source,festival_surge,36,487.53,242.85
+Reactive dual-source,festival_surge,37,494.03,246.31
+Reactive dual-source,festival_surge,38,497.87,246.31
+Reactive dual-source,festival_surge,39,508.17,251.12
+Reactive dual-source,festival_surge,40,532.43,256.57
+Reactive dual-source,festival_surge,41,550.2,261.58
+Reactive dual-source,festival_surge,42,569.2,271.81
+Reactive dual-source,festival_surge,43,588.67,277.45
+Reactive dual-source,festival_surge,44,604.27,281.2
+Reactive dual-source,festival_surge,45,617.0,281.45
+Reactive dual-source,festival_surge,46,645.37,278.33
+Reactive dual-source,festival_surge,47,660.73,283.4
+Reactive dual-source,festival_surge,48,675.6,296.33
+Reactive dual-source,festival_surge,49,684.3,305.39
+Reactive dual-source,festival_surge,50,690.87,305.65
+Reactive dual-source,festival_surge,51,695.9,306.21
+Reactive dual-source,festival_surge,52,697.7,304.73
+Reactive dual-source,festival_surge,53,734.0,313.15
+Reactive dual-source,festival_surge,54,823.87,423.2
+Reactive dual-source,festival_surge,55,1008.1,696.54
+Reactive dual-source,festival_surge,56,1305.43,1072.93
+Reactive dual-source,festival_surge,57,1741.6,1600.05
+Reactive dual-source,festival_surge,58,2328.43,2211.57
+Reactive dual-source,festival_surge,59,2968.97,2833.2
+Reactive dual-source,festival_surge,60,3663.37,3428.17
+Reactive dual-source,festival_surge,61,4273.87,3742.93
+Reactive dual-source,festival_surge,62,4651.33,3894.57
+Reactive dual-source,festival_surge,63,4865.43,3939.61
+Reactive dual-source,festival_surge,64,5005.9,3970.41
+Reactive dual-source,festival_surge,65,5155.5,4026.8
+Reactive dual-source,festival_surge,66,5420.1,4182.87
+Reactive dual-source,festival_surge,67,5889.6,4424.83
+Reactive dual-source,festival_surge,68,6577.73,4623.25
+Reactive dual-source,festival_surge,69,7299.33,4531.22
+Reactive dual-source,festival_surge,70,8000.83,4233.01
+Reactive dual-source,festival_surge,71,8756.53,3878.92
+Reactive dual-source,festival_surge,72,9460.53,3530.62
+Reactive dual-source,festival_surge,73,10137.6,3160.38
+Reactive dual-source,festival_surge,74,10710.43,2961.0
+Reactive dual-source,festival_surge,75,11071.5,2837.63
+Reactive dual-source,festival_surge,76,11234.53,2770.03
+Reactive dual-source,festival_surge,77,11313.07,2748.86
+Reactive dual-source,festival_surge,78,11382.83,2729.85
+Reactive dual-source,festival_surge,79,11481.1,2708.2
+Reactive dual-source,festival_surge,80,11612.43,2680.87
+Reactive dual-source,festival_surge,81,11782.73,2625.19
+Reactive dual-source,festival_surge,82,11955.27,2614.39
+Reactive dual-source,festival_surge,83,12087.4,2645.98
+Reactive dual-source,festival_surge,84,12157.1,2672.67
+Reactive dual-source,festival_surge,85,12197.8,2692.64
+Reactive dual-source,festival_surge,86,12231.63,2707.3
+Reactive dual-source,festival_surge,87,12264.6,2710.62
+Reactive dual-source,festival_surge,88,12304.63,2711.19
+Reactive dual-source,festival_surge,89,12331.57,2722.53
+Reactive dual-source,festival_surge,90,12352.8,2721.48
+Reactive dual-source,festival_surge,91,12363.93,2716.0
+Reactive dual-source,festival_surge,92,12369.2,2714.76
+Reactive dual-source,festival_surge,93,12374.93,2717.6
+Reactive dual-source,festival_surge,94,12382.67,2720.62
+Reactive dual-source,festival_surge,95,12394.5,2724.41
+Reactive dual-source,festival_surge,96,12415.2,2718.0
+Reactive dual-source,festival_surge,97,12442.03,2718.19
+Reactive dual-source,festival_surge,98,12468.33,2714.6
+Reactive dual-source,festival_surge,99,12483.83,2707.16
+Reactive dual-source,festival_surge,100,12502.7,2702.33
+Reactive dual-source,festival_surge,101,12512.33,2700.33
+Reactive dual-source,festival_surge,102,12530.73,2699.7
+Reactive dual-source,festival_surge,103,12540.37,2703.28
+Reactive dual-source,festival_surge,104,12550.2,2707.67
+Reactive dual-source,festival_surge,105,12558.4,2705.88
+Reactive dual-source,festival_surge,106,12567.43,2699.48
+Reactive dual-source,festival_surge,107,12576.63,2693.61
+Reactive dual-source,festival_surge,108,12587.73,2689.52
+Reactive dual-source,festival_surge,109,12600.9,2695.93
+Reactive dual-source,festival_surge,110,12610.5,2693.48
+Reactive dual-source,festival_surge,111,12622.5,2694.7
+Reactive dual-source,festival_surge,112,12638.4,2695.63
+Reactive dual-source,festival_surge,113,12653.03,2699.91
+Reactive dual-source,festival_surge,114,12659.1,2696.16
+Reactive dual-source,festival_surge,115,12664.1,2697.87
+Reactive dual-source,festival_surge,116,12675.33,2702.15
+Reactive dual-source,festival_surge,117,12693.0,2705.15
+Reactive dual-source,festival_surge,118,12708.83,2705.12
+Reactive dual-source,festival_surge,119,12723.77,2706.38
+SupplyGen,commodity_shortage,0,0.0,0.0
+SupplyGen,commodity_shortage,1,0.0,0.0
+SupplyGen,commodity_shortage,2,0.0,0.0
+SupplyGen,commodity_shortage,3,0.0,0.0
+SupplyGen,commodity_shortage,4,0.0,0.0
+SupplyGen,commodity_shortage,5,0.0,0.0
+SupplyGen,commodity_shortage,6,0.0,0.0
+SupplyGen,commodity_shortage,7,0.0,0.0
+SupplyGen,commodity_shortage,8,0.0,0.0
+SupplyGen,commodity_shortage,9,0.67,3.29
+SupplyGen,commodity_shortage,10,6.93,10.41
+SupplyGen,commodity_shortage,11,42.6,38.13
+SupplyGen,commodity_shortage,12,61.63,60.91
+SupplyGen,commodity_shortage,13,69.37,71.43
+SupplyGen,commodity_shortage,14,77.4,74.58
+SupplyGen,commodity_shortage,15,86.23,72.18
+SupplyGen,commodity_shortage,16,98.37,75.31
+SupplyGen,commodity_shortage,17,116.77,85.13
+SupplyGen,commodity_shortage,18,146.4,108.02
+SupplyGen,commodity_shortage,19,157.43,112.58
+SupplyGen,commodity_shortage,20,161.9,116.74
+SupplyGen,commodity_shortage,21,162.03,116.58
+SupplyGen,commodity_shortage,22,162.13,116.57
+SupplyGen,commodity_shortage,23,163.43,116.33
+SupplyGen,commodity_shortage,24,167.9,113.93
+SupplyGen,commodity_shortage,25,181.47,115.27
+SupplyGen,commodity_shortage,26,213.77,132.41
+SupplyGen,commodity_shortage,27,242.4,134.78
+SupplyGen,commodity_shortage,28,257.0,140.33
+SupplyGen,commodity_shortage,29,265.6,144.49
+SupplyGen,commodity_shortage,30,275.63,143.23
+SupplyGen,commodity_shortage,31,300.53,156.28
+SupplyGen,commodity_shortage,32,320.97,167.02
+SupplyGen,commodity_shortage,33,335.9,175.88
+SupplyGen,commodity_shortage,34,345.03,179.08
+SupplyGen,commodity_shortage,35,352.0,177.76
+SupplyGen,commodity_shortage,36,355.1,175.41
+SupplyGen,commodity_shortage,37,357.7,176.02
+SupplyGen,commodity_shortage,38,358.7,176.18
+SupplyGen,commodity_shortage,39,366.13,177.38
+SupplyGen,commodity_shortage,40,379.73,177.68
+SupplyGen,commodity_shortage,41,389.33,178.48
+SupplyGen,commodity_shortage,42,400.53,176.08
+SupplyGen,commodity_shortage,43,409.4,172.63
+SupplyGen,commodity_shortage,44,416.53,169.64
+SupplyGen,commodity_shortage,45,425.57,171.78
+SupplyGen,commodity_shortage,46,445.83,178.64
+SupplyGen,commodity_shortage,47,472.8,190.38
+SupplyGen,commodity_shortage,48,491.9,208.35
+SupplyGen,commodity_shortage,49,501.77,222.1
+SupplyGen,commodity_shortage,50,508.4,226.4
+SupplyGen,commodity_shortage,51,514.53,230.84
+SupplyGen,commodity_shortage,52,516.67,232.42
+SupplyGen,commodity_shortage,53,520.9,229.78
+SupplyGen,commodity_shortage,54,532.97,228.25
+SupplyGen,commodity_shortage,55,540.77,229.28
+SupplyGen,commodity_shortage,56,546.27,230.06
+SupplyGen,commodity_shortage,57,547.63,229.82
+SupplyGen,commodity_shortage,58,551.17,228.54
+SupplyGen,commodity_shortage,59,560.6,234.24
+SupplyGen,commodity_shortage,60,570.93,237.82
+SupplyGen,commodity_shortage,61,588.2,246.54
+SupplyGen,commodity_shortage,62,604.03,250.65
+SupplyGen,commodity_shortage,63,615.5,254.52
+SupplyGen,commodity_shortage,64,622.73,262.14
+SupplyGen,commodity_shortage,65,634.33,272.18
+SupplyGen,commodity_shortage,66,647.27,280.68
+SupplyGen,commodity_shortage,67,653.27,284.88
+SupplyGen,commodity_shortage,68,659.07,280.17
+SupplyGen,commodity_shortage,69,664.9,281.66
+SupplyGen,commodity_shortage,70,672.83,289.55
+SupplyGen,commodity_shortage,71,676.53,290.34
+SupplyGen,commodity_shortage,72,679.93,291.05
+SupplyGen,commodity_shortage,73,683.97,290.49
+SupplyGen,commodity_shortage,74,692.23,289.94
+SupplyGen,commodity_shortage,75,697.73,290.27
+SupplyGen,commodity_shortage,76,702.53,292.71
+SupplyGen,commodity_shortage,77,719.63,292.22
+SupplyGen,commodity_shortage,78,732.63,296.74
+SupplyGen,commodity_shortage,79,741.7,297.66
+SupplyGen,commodity_shortage,80,751.33,298.79
+SupplyGen,commodity_shortage,81,765.47,311.9
+SupplyGen,commodity_shortage,82,772.97,313.91
+SupplyGen,commodity_shortage,83,785.77,315.6
+SupplyGen,commodity_shortage,84,794.67,310.22
+SupplyGen,commodity_shortage,85,802.9,304.76
+SupplyGen,commodity_shortage,86,816.03,307.02
+SupplyGen,commodity_shortage,87,823.9,306.86
+SupplyGen,commodity_shortage,88,834.0,305.23
+SupplyGen,commodity_shortage,89,846.5,299.98
+SupplyGen,commodity_shortage,90,864.6,292.88
+SupplyGen,commodity_shortage,91,881.17,289.5
+SupplyGen,commodity_shortage,92,887.93,291.75
+SupplyGen,commodity_shortage,93,896.77,303.46
+SupplyGen,commodity_shortage,94,904.67,305.06
+SupplyGen,commodity_shortage,95,912.8,310.13
+SupplyGen,commodity_shortage,96,926.53,306.11
+SupplyGen,commodity_shortage,97,934.93,302.82
+SupplyGen,commodity_shortage,98,944.17,304.51
+SupplyGen,commodity_shortage,99,950.77,303.14
+SupplyGen,commodity_shortage,100,960.97,303.48
+SupplyGen,commodity_shortage,101,976.9,311.09
+SupplyGen,commodity_shortage,102,999.93,324.74
+SupplyGen,commodity_shortage,103,1019.97,344.9
+SupplyGen,commodity_shortage,104,1029.67,350.48
+SupplyGen,commodity_shortage,105,1044.4,351.15
+SupplyGen,commodity_shortage,106,1061.3,356.85
+SupplyGen,commodity_shortage,107,1075.77,356.93
+SupplyGen,commodity_shortage,108,1087.6,358.99
+SupplyGen,commodity_shortage,109,1098.2,362.8
+SupplyGen,commodity_shortage,110,1113.5,362.69
+SupplyGen,commodity_shortage,111,1125.07,365.67
+SupplyGen,commodity_shortage,112,1135.27,368.99
+SupplyGen,commodity_shortage,113,1142.83,367.98
+SupplyGen,commodity_shortage,114,1150.9,367.84
+SupplyGen,commodity_shortage,115,1154.6,367.47
+SupplyGen,commodity_shortage,116,1160.83,364.0
+SupplyGen,commodity_shortage,117,1178.0,356.94
+SupplyGen,commodity_shortage,118,1193.2,355.38
+SupplyGen,commodity_shortage,119,1197.9,355.39
+SupplyGen,supplier_failure,0,0.0,0.0
+SupplyGen,supplier_failure,1,0.0,0.0
+SupplyGen,supplier_failure,2,0.0,0.0
+SupplyGen,supplier_failure,3,0.0,0.0
+SupplyGen,supplier_failure,4,0.0,0.0
+SupplyGen,supplier_failure,5,0.0,0.0
+SupplyGen,supplier_failure,6,0.0,0.0
+SupplyGen,supplier_failure,7,0.0,0.0
+SupplyGen,supplier_failure,8,0.5,2.74
+SupplyGen,supplier_failure,9,4.8,11.45
+SupplyGen,supplier_failure,10,12.57,17.27
+SupplyGen,supplier_failure,11,58.13,57.1
+SupplyGen,supplier_failure,12,85.43,79.85
+SupplyGen,supplier_failure,13,114.6,117.88
+SupplyGen,supplier_failure,14,130.5,138.79
+SupplyGen,supplier_failure,15,139.6,139.59
+SupplyGen,supplier_failure,16,150.0,149.7
+SupplyGen,supplier_failure,17,161.77,170.12
+SupplyGen,supplier_failure,18,176.73,183.76
+SupplyGen,supplier_failure,19,192.4,199.98
+SupplyGen,supplier_failure,20,196.33,203.01
+SupplyGen,supplier_failure,21,197.27,203.57
+SupplyGen,supplier_failure,22,197.97,204.13
+SupplyGen,supplier_failure,23,199.03,203.88
+SupplyGen,supplier_failure,24,206.87,206.29
+SupplyGen,supplier_failure,25,218.7,205.51
+SupplyGen,supplier_failure,26,253.5,219.02
+SupplyGen,supplier_failure,27,286.33,239.74
+SupplyGen,supplier_failure,28,303.9,249.18
+SupplyGen,supplier_failure,29,316.2,253.5
+SupplyGen,supplier_failure,30,326.67,253.36
+SupplyGen,supplier_failure,31,342.07,253.55
+SupplyGen,supplier_failure,32,363.07,261.14
+SupplyGen,supplier_failure,33,371.6,257.55
+SupplyGen,supplier_failure,34,377.13,260.07
+SupplyGen,supplier_failure,35,385.53,270.08
+SupplyGen,supplier_failure,36,393.73,284.24
+SupplyGen,supplier_failure,37,399.6,291.66
+SupplyGen,supplier_failure,38,401.93,290.55
+SupplyGen,supplier_failure,39,409.6,287.63
+SupplyGen,supplier_failure,40,436.63,277.67
+SupplyGen,supplier_failure,41,465.8,275.91
+SupplyGen,supplier_failure,42,502.5,281.57
+SupplyGen,supplier_failure,43,520.77,280.8
+SupplyGen,supplier_failure,44,534.43,279.33
+SupplyGen,supplier_failure,45,551.4,290.42
+SupplyGen,supplier_failure,46,573.1,300.55
+SupplyGen,supplier_failure,47,593.77,310.99
+SupplyGen,supplier_failure,48,610.47,319.37
+SupplyGen,supplier_failure,49,616.8,322.4
+SupplyGen,supplier_failure,50,631.17,327.98
+SupplyGen,supplier_failure,51,643.0,335.47
+SupplyGen,supplier_failure,52,648.47,336.03
+SupplyGen,supplier_failure,53,659.57,338.3
+SupplyGen,supplier_failure,54,672.53,335.82
+SupplyGen,supplier_failure,55,690.87,328.29
+SupplyGen,supplier_failure,56,714.73,330.26
+SupplyGen,supplier_failure,57,730.37,330.14
+SupplyGen,supplier_failure,58,748.33,340.89
+SupplyGen,supplier_failure,59,767.63,349.94
+SupplyGen,supplier_failure,60,792.5,358.96
+SupplyGen,supplier_failure,61,813.03,371.44
+SupplyGen,supplier_failure,62,823.43,380.56
+SupplyGen,supplier_failure,63,833.43,388.16
+SupplyGen,supplier_failure,64,852.13,404.06
+SupplyGen,supplier_failure,65,861.97,411.9
+SupplyGen,supplier_failure,66,864.17,416.08
+SupplyGen,supplier_failure,67,870.3,417.24
+SupplyGen,supplier_failure,68,884.37,425.09
+SupplyGen,supplier_failure,69,900.23,430.89
+SupplyGen,supplier_failure,70,922.33,440.99
+SupplyGen,supplier_failure,71,942.8,447.93
+SupplyGen,supplier_failure,72,953.73,454.78
+SupplyGen,supplier_failure,73,969.83,459.86
+SupplyGen,supplier_failure,74,991.2,476.53
+SupplyGen,supplier_failure,75,1008.63,492.12
+SupplyGen,supplier_failure,76,1017.77,502.1
+SupplyGen,supplier_failure,77,1027.87,510.63
+SupplyGen,supplier_failure,78,1038.67,519.44
+SupplyGen,supplier_failure,79,1055.07,532.73
+SupplyGen,supplier_failure,80,1068.03,549.9
+SupplyGen,supplier_failure,81,1082.97,563.4
+SupplyGen,supplier_failure,82,1098.47,567.58
+SupplyGen,supplier_failure,83,1116.03,571.46
+SupplyGen,supplier_failure,84,1129.67,577.56
+SupplyGen,supplier_failure,85,1145.6,579.82
+SupplyGen,supplier_failure,86,1158.87,583.2
+SupplyGen,supplier_failure,87,1170.57,589.76
+SupplyGen,supplier_failure,88,1185.43,596.73
+SupplyGen,supplier_failure,89,1204.17,601.89
+SupplyGen,supplier_failure,90,1223.53,614.45
+SupplyGen,supplier_failure,91,1227.93,617.63
+SupplyGen,supplier_failure,92,1237.4,631.41
+SupplyGen,supplier_failure,93,1244.33,627.69
+SupplyGen,supplier_failure,94,1252.13,625.85
+SupplyGen,supplier_failure,95,1254.93,626.71
+SupplyGen,supplier_failure,96,1265.43,624.12
+SupplyGen,supplier_failure,97,1285.4,622.66
+SupplyGen,supplier_failure,98,1299.63,615.52
+SupplyGen,supplier_failure,99,1326.23,609.6
+SupplyGen,supplier_failure,100,1341.13,610.21
+SupplyGen,supplier_failure,101,1359.13,618.63
+SupplyGen,supplier_failure,102,1378.67,624.81
+SupplyGen,supplier_failure,103,1410.0,645.98
+SupplyGen,supplier_failure,104,1420.87,646.61
+SupplyGen,supplier_failure,105,1433.57,650.66
+SupplyGen,supplier_failure,106,1444.37,658.75
+SupplyGen,supplier_failure,107,1456.23,662.72
+SupplyGen,supplier_failure,108,1466.0,666.24
+SupplyGen,supplier_failure,109,1474.0,665.35
+SupplyGen,supplier_failure,110,1483.0,674.08
+SupplyGen,supplier_failure,111,1490.63,678.61
+SupplyGen,supplier_failure,112,1501.03,681.37
+SupplyGen,supplier_failure,113,1511.43,682.53
+SupplyGen,supplier_failure,114,1522.6,682.07
+SupplyGen,supplier_failure,115,1539.57,692.59
+SupplyGen,supplier_failure,116,1559.5,698.92
+SupplyGen,supplier_failure,117,1572.97,696.64
+SupplyGen,supplier_failure,118,1582.53,697.4
+SupplyGen,supplier_failure,119,1593.1,698.75
+SupplyGen,weather_disruption,0,0.0,0.0
+SupplyGen,weather_disruption,1,0.0,0.0
+SupplyGen,weather_disruption,2,0.0,0.0
+SupplyGen,weather_disruption,3,0.0,0.0
+SupplyGen,weather_disruption,4,0.0,0.0
+SupplyGen,weather_disruption,5,0.0,0.0
+SupplyGen,weather_disruption,6,0.0,0.0
+SupplyGen,weather_disruption,7,0.0,0.0
+SupplyGen,weather_disruption,8,0.5,2.74
+SupplyGen,weather_disruption,9,1.33,4.04
+SupplyGen,weather_disruption,10,7.77,11.72
+SupplyGen,weather_disruption,11,42.33,40.23
+SupplyGen,weather_disruption,12,59.2,57.31
+SupplyGen,weather_disruption,13,67.57,73.6
+SupplyGen,weather_disruption,14,72.7,75.81
+SupplyGen,weather_disruption,15,85.07,73.78
+SupplyGen,weather_disruption,16,107.63,80.76
+SupplyGen,weather_disruption,17,136.63,95.4
+SupplyGen,weather_disruption,18,152.73,106.19
+SupplyGen,weather_disruption,19,164.4,112.22
+SupplyGen,weather_disruption,20,168.97,112.44
+SupplyGen,weather_disruption,21,169.43,112.94
+SupplyGen,weather_disruption,22,169.5,112.93
+SupplyGen,weather_disruption,23,170.47,113.67
+SupplyGen,weather_disruption,24,177.9,111.94
+SupplyGen,weather_disruption,25,196.37,114.9
+SupplyGen,weather_disruption,26,234.97,137.12
+SupplyGen,weather_disruption,27,263.13,147.36
+SupplyGen,weather_disruption,28,270.83,147.15
+SupplyGen,weather_disruption,29,284.1,150.12
+SupplyGen,weather_disruption,30,289.37,149.22
+SupplyGen,weather_disruption,31,310.1,153.62
+SupplyGen,weather_disruption,32,319.83,158.6
+SupplyGen,weather_disruption,33,332.47,171.44
+SupplyGen,weather_disruption,34,340.73,178.98
+SupplyGen,weather_disruption,35,343.83,178.88
+SupplyGen,weather_disruption,36,347.03,182.43
+SupplyGen,weather_disruption,37,350.33,184.94
+SupplyGen,weather_disruption,38,353.97,183.3
+SupplyGen,weather_disruption,39,366.2,185.21
+SupplyGen,weather_disruption,40,399.8,193.14
+SupplyGen,weather_disruption,41,432.6,199.45
+SupplyGen,weather_disruption,42,460.77,203.49
+SupplyGen,weather_disruption,43,477.97,214.13
+SupplyGen,weather_disruption,44,489.23,216.9
+SupplyGen,weather_disruption,45,498.77,221.32
+SupplyGen,weather_disruption,46,511.13,220.6
+SupplyGen,weather_disruption,47,528.9,220.3
+SupplyGen,weather_disruption,48,545.07,224.14
+SupplyGen,weather_disruption,49,560.63,234.11
+SupplyGen,weather_disruption,50,570.53,243.98
+SupplyGen,weather_disruption,51,572.5,243.14
+SupplyGen,weather_disruption,52,575.17,241.24
+SupplyGen,weather_disruption,53,580.93,242.45
+SupplyGen,weather_disruption,54,595.1,240.79
+SupplyGen,weather_disruption,55,617.37,240.51
+SupplyGen,weather_disruption,56,641.87,238.86
+SupplyGen,weather_disruption,57,651.33,242.25
+SupplyGen,weather_disruption,58,657.33,241.46
+SupplyGen,weather_disruption,59,663.5,242.37
+SupplyGen,weather_disruption,60,678.27,244.92
+SupplyGen,weather_disruption,61,697.53,243.47
+SupplyGen,weather_disruption,62,715.23,247.3
+SupplyGen,weather_disruption,63,723.93,251.52
+SupplyGen,weather_disruption,64,729.5,249.86
+SupplyGen,weather_disruption,65,732.37,249.37
+SupplyGen,weather_disruption,66,737.87,247.8
+SupplyGen,weather_disruption,67,747.6,244.25
+SupplyGen,weather_disruption,68,766.37,229.01
+SupplyGen,weather_disruption,69,778.6,222.89
+SupplyGen,weather_disruption,70,790.8,224.85
+SupplyGen,weather_disruption,71,807.47,225.55
+SupplyGen,weather_disruption,72,826.23,231.7
+SupplyGen,weather_disruption,73,840.57,239.91
+SupplyGen,weather_disruption,74,865.13,242.36
+SupplyGen,weather_disruption,75,881.0,245.34
+SupplyGen,weather_disruption,76,899.3,242.51
+SupplyGen,weather_disruption,77,911.43,247.59
+SupplyGen,weather_disruption,78,920.4,246.99
+SupplyGen,weather_disruption,79,932.3,243.86
+SupplyGen,weather_disruption,80,949.43,251.43
+SupplyGen,weather_disruption,81,963.9,266.25
+SupplyGen,weather_disruption,82,971.5,271.29
+SupplyGen,weather_disruption,83,987.63,265.64
+SupplyGen,weather_disruption,84,996.13,263.59
+SupplyGen,weather_disruption,85,1005.17,260.93
+SupplyGen,weather_disruption,86,1015.43,261.73
+SupplyGen,weather_disruption,87,1029.7,255.25
+SupplyGen,weather_disruption,88,1059.87,261.41
+SupplyGen,weather_disruption,89,1092.17,273.11
+SupplyGen,weather_disruption,90,1118.73,278.6
+SupplyGen,weather_disruption,91,1141.5,288.85
+SupplyGen,weather_disruption,92,1155.77,285.34
+SupplyGen,weather_disruption,93,1166.53,286.84
+SupplyGen,weather_disruption,94,1177.5,283.78
+SupplyGen,weather_disruption,95,1186.53,290.72
+SupplyGen,weather_disruption,96,1192.37,293.23
+SupplyGen,weather_disruption,97,1200.53,290.06
+SupplyGen,weather_disruption,98,1210.8,295.06
+SupplyGen,weather_disruption,99,1229.0,294.27
+SupplyGen,weather_disruption,100,1236.93,292.57
+SupplyGen,weather_disruption,101,1246.7,292.73
+SupplyGen,weather_disruption,102,1270.93,281.27
+SupplyGen,weather_disruption,103,1290.8,286.79
+SupplyGen,weather_disruption,104,1306.27,283.69
+SupplyGen,weather_disruption,105,1323.77,279.35
+SupplyGen,weather_disruption,106,1338.67,287.69
+SupplyGen,weather_disruption,107,1355.43,296.22
+SupplyGen,weather_disruption,108,1365.23,308.71
+SupplyGen,weather_disruption,109,1372.37,309.47
+SupplyGen,weather_disruption,110,1384.2,308.51
+SupplyGen,weather_disruption,111,1395.67,311.5
+SupplyGen,weather_disruption,112,1405.33,318.81
+SupplyGen,weather_disruption,113,1417.7,322.23
+SupplyGen,weather_disruption,114,1426.33,325.26
+SupplyGen,weather_disruption,115,1434.3,325.36
+SupplyGen,weather_disruption,116,1448.47,318.35
+SupplyGen,weather_disruption,117,1470.83,307.15
+SupplyGen,weather_disruption,118,1482.7,305.85
+SupplyGen,weather_disruption,119,1494.5,307.95
+SupplyGen,festival_surge,0,0.0,0.0
+SupplyGen,festival_surge,1,0.0,0.0
+SupplyGen,festival_surge,2,0.0,0.0
+SupplyGen,festival_surge,3,0.0,0.0
+SupplyGen,festival_surge,4,0.0,0.0
+SupplyGen,festival_surge,5,0.0,0.0
+SupplyGen,festival_surge,6,0.0,0.0
+SupplyGen,festival_surge,7,0.6,3.29
+SupplyGen,festival_surge,8,2.0,10.95
+SupplyGen,festival_surge,9,5.4,12.66
+SupplyGen,festival_surge,10,15.57,16.94
+SupplyGen,festival_surge,11,49.9,35.16
+SupplyGen,festival_surge,12,88.3,90.81
+SupplyGen,festival_surge,13,108.7,125.05
+SupplyGen,festival_surge,14,122.4,148.18
+SupplyGen,festival_surge,15,134.37,145.07
+SupplyGen,festival_surge,16,148.23,142.22
+SupplyGen,festival_surge,17,170.83,151.01
+SupplyGen,festival_surge,18,192.2,154.24
+SupplyGen,festival_surge,19,211.57,160.13
+SupplyGen,festival_surge,20,218.2,165.4
+SupplyGen,festival_surge,21,219.4,165.44
+SupplyGen,festival_surge,22,219.83,165.56
+SupplyGen,festival_surge,23,221.57,167.66
+SupplyGen,festival_surge,24,229.9,169.79
+SupplyGen,festival_surge,25,258.03,174.69
+SupplyGen,festival_surge,26,302.3,185.1
+SupplyGen,festival_surge,27,338.93,196.47
+SupplyGen,festival_surge,28,357.87,199.51
+SupplyGen,festival_surge,29,376.63,208.68
+SupplyGen,festival_surge,30,382.9,209.81
+SupplyGen,festival_surge,31,400.7,205.5
+SupplyGen,festival_surge,32,431.5,211.12
+SupplyGen,festival_surge,33,455.13,225.64
+SupplyGen,festival_surge,34,465.67,236.02
+SupplyGen,festival_surge,35,473.1,244.75
+SupplyGen,festival_surge,36,476.27,245.48
+SupplyGen,festival_surge,37,480.07,247.18
+SupplyGen,festival_surge,38,480.07,247.18
+SupplyGen,festival_surge,39,480.07,247.18
+SupplyGen,festival_surge,40,480.9,247.2
+SupplyGen,festival_surge,41,481.9,247.45
+SupplyGen,festival_surge,42,483.23,247.97
+SupplyGen,festival_surge,43,483.23,247.97
+SupplyGen,festival_surge,44,483.57,247.71
+SupplyGen,festival_surge,45,484.43,247.08
+SupplyGen,festival_surge,46,484.97,246.79
+SupplyGen,festival_surge,47,485.77,246.43
+SupplyGen,festival_surge,48,485.77,246.43
+SupplyGen,festival_surge,49,485.77,246.43
+SupplyGen,festival_surge,50,485.77,246.43
+SupplyGen,festival_surge,51,485.77,246.43
+SupplyGen,festival_surge,52,485.77,246.43
+SupplyGen,festival_surge,53,485.77,246.43
+SupplyGen,festival_surge,54,485.77,246.43
+SupplyGen,festival_surge,55,485.77,246.43
+SupplyGen,festival_surge,56,485.77,246.43
+SupplyGen,festival_surge,57,485.77,246.43
+SupplyGen,festival_surge,58,485.77,246.43
+SupplyGen,festival_surge,59,485.77,246.43
+SupplyGen,festival_surge,60,485.77,246.43
+SupplyGen,festival_surge,61,485.77,246.43
+SupplyGen,festival_surge,62,485.77,246.43
+SupplyGen,festival_surge,63,485.77,246.43
+SupplyGen,festival_surge,64,485.77,246.43
+SupplyGen,festival_surge,65,485.77,246.43
+SupplyGen,festival_surge,66,485.77,246.43
+SupplyGen,festival_surge,67,485.77,246.43
+SupplyGen,festival_surge,68,485.77,246.43
+SupplyGen,festival_surge,69,485.77,246.43
+SupplyGen,festival_surge,70,485.77,246.43
+SupplyGen,festival_surge,71,485.77,246.43
+SupplyGen,festival_surge,72,485.77,246.43
+SupplyGen,festival_surge,73,485.77,246.43
+SupplyGen,festival_surge,74,485.77,246.43
+SupplyGen,festival_surge,75,485.77,246.43
+SupplyGen,festival_surge,76,485.77,246.43
+SupplyGen,festival_surge,77,485.77,246.43
+SupplyGen,festival_surge,78,487.2,245.57
+SupplyGen,festival_surge,79,489.1,243.19
+SupplyGen,festival_surge,80,490.17,242.3
+SupplyGen,festival_surge,81,496.3,239.6
+SupplyGen,festival_surge,82,507.03,238.34
+SupplyGen,festival_surge,83,522.4,237.32
+SupplyGen,festival_surge,84,534.87,240.65
+SupplyGen,festival_surge,85,539.13,240.94
+SupplyGen,festival_surge,86,543.93,242.83
+SupplyGen,festival_surge,87,552.07,250.03
+SupplyGen,festival_surge,88,566.93,251.11
+SupplyGen,festival_surge,89,586.07,247.45
+SupplyGen,festival_surge,90,595.03,253.59
+SupplyGen,festival_surge,91,609.03,265.95
+SupplyGen,festival_surge,92,612.37,268.63
+SupplyGen,festival_surge,93,614.33,267.31
+SupplyGen,festival_surge,94,619.87,264.99
+SupplyGen,festival_surge,95,630.2,261.37
+SupplyGen,festival_surge,96,646.7,263.45
+SupplyGen,festival_surge,97,663.07,268.57
+SupplyGen,festival_surge,98,681.1,263.15
+SupplyGen,festival_surge,99,692.3,265.04
+SupplyGen,festival_surge,100,703.63,270.06
+SupplyGen,festival_surge,101,712.97,271.35
+SupplyGen,festival_surge,102,727.5,272.21
+SupplyGen,festival_surge,103,743.3,270.76
+SupplyGen,festival_surge,104,770.8,290.01
+SupplyGen,festival_surge,105,790.23,314.35
+SupplyGen,festival_surge,106,802.23,322.76
+SupplyGen,festival_surge,107,816.17,330.84
+SupplyGen,festival_surge,108,837.3,343.19
+SupplyGen,festival_surge,109,859.63,358.93
+SupplyGen,festival_surge,110,872.3,367.47
+SupplyGen,festival_surge,111,885.17,365.82
+SupplyGen,festival_surge,112,890.87,366.98
+SupplyGen,festival_surge,113,896.1,364.18
+SupplyGen,festival_surge,114,902.33,368.26
+SupplyGen,festival_surge,115,916.1,377.37
+SupplyGen,festival_surge,116,933.67,382.38
+SupplyGen,festival_surge,117,959.07,392.81
+SupplyGen,festival_surge,118,972.53,392.87
+SupplyGen,festival_surge,119,984.6,395.34

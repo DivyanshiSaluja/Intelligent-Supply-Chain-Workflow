@@ -1,0 +1,42 @@
+{
+ "sku": "SKU-100 USB-C Charger 65W",
+ "day": 34,
+ "chosen": 2,
+ "ranking": [
+  {
+   "supplier_id": 2,
+   "name": "Chennai Components Ltd",
+   "eff_lead": 6.0,
+   "fill": 1.0,
+   "premium": 0.08,
+   "score": 7.73,
+   "affected_by": [],
+   "upcoming_risk_end": null,
+   "is_primary": false
+  },
+  {
+   "supplier_id": 3,
+   "name": "Hanoi Devices JSC",
+   "eff_lead": 11.0,
+   "fill": 1.0,
+   "premium": -0.03,
+   "score": 12.5,
+   "affected_by": [],
+   "upcoming_risk_end": null,
+   "is_primary": false
+  },
+  {
+   "supplier_id": 1,
+   "name": "Shenzhen Electronics Co",
+   "eff_lead": 44.0,
+   "fill": 1.0,
+   "premium": 0.0,
+   "score": 47.31,
+   "affected_by": [
+    "supplier_failure"
+   ],
+   "upcoming_risk_end": null,
+   "is_primary": true
+  }
+ ]
+}
