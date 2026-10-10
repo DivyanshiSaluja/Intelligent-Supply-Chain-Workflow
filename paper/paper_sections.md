@@ -436,7 +436,7 @@ an optimisation or reinforcement-learning inventory policy.
 ## Data and code availability (draft)
 
 Code, the synthetic dataset, the derived real-demand file, results and figures are available at
-https://github.com/Aditiib/Intelligent-supply-chaining. Real demand is derived from UCI Online
+https://github.com/DivyanshiSaluja/Intelligent-Supply-Chain-Workflow. Real demand is derived from UCI Online
 Retail II (https://archive.ics.uci.edu/dataset/502/online+retail+ii, CC BY 4.0), which must also
 appear in the reference list. All results regenerate with the commands in `README.md`.
 
