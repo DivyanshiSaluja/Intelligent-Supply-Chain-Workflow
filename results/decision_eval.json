@@ -1,0 +1,17 @@
+{
+ "n": 90,
+ "scores": {
+  "Static ROP": {
+   "avoids_disrupted_supplier": 50.0,
+   "protective_action": 33.3,
+   "within_guardrails": 100.0,
+   "has_rationale": 0.0
+  },
+  "SupplyGen": {
+   "avoids_disrupted_supplier": 100.0,
+   "protective_action": 100.0,
+   "within_guardrails": 100.0,
+   "has_rationale": 100.0
+  }
+ }
+}
